@@ -65,6 +65,12 @@ h1, h2, h3, h4, h5,
   background-repeat: no-repeat;
   background-blend-mode: darken;
 }
+.bg-dark-image-2{
+  background: url(../images/bg-banner-home.jpeg),#00000099 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-blend-mode: darken !important;
+}
 .color-black-opacity-5 {
   color: rgba(0, 0, 0, 0.5); }
 
@@ -342,11 +348,14 @@ h1, h2, h3, h4, h5,
       display: inline-block; }
       .site-navbar .site-navigation .site-menu > li > a {
         padding: 5px 10px;
-        color: #000;
+        color: #fff;
         font-size: 14px;
         display: inline-block;
         text-decoration: none !important;
         position: relative; }
+        .is-sticky .site-navbar .site-navigation .site-menu > li > a{
+          color: #000;
+        }
         .site-navbar .site-navigation .site-menu > li > a:after {
           content: "";
           left: 20px;
@@ -354,15 +363,22 @@ h1, h2, h3, h4, h5,
           position: absolute;
           bottom: 0;
           height: 3px;
-          background: var(--theme-primary-color-custom);
+          background: #fff;
           opacity: 0;
           visibility: hidden; }
+          .is-sticky .site-navbar .site-navigation .site-menu > li > a:after{
+            background: var(--theme-primary-color-custom);
+          }
         .site-navbar .site-navigation .site-menu > li > a.active {
-          color: var(--theme-primary-color-custom); }
+          color: #fff; }
+          .is-sticky .site-navbar .site-navigation .site-menu > li > a.active {
+            color: var(--theme-primary-color-custom); }
           .site-navbar .site-navigation .site-menu > li > a.active:after {
             visibility: visible;
             opacity: 1; }
         .site-navbar .site-navigation .site-menu > li > a:hover {
+          color: #ded8d8; }
+        .is-sticky .site-navbar .site-navigation .site-menu > li > a:hover {
           color: #000; }
     .site-navbar .site-navigation .site-menu .has-children {
       position: relative; }
@@ -655,6 +671,9 @@ h1, h2, h3, h4, h5,
     font-weight: 400;
     color: var(--theme-primary-color-custom);
     text-transform: uppercase; }
+    .bg-dark-image-2 h1{
+      color: #fff;
+    }
     @media (max-width: 991.98px) {
       .site-blocks-cover h1 {
         font-size: 2rem; } }
