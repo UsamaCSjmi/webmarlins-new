@@ -176,6 +176,18 @@ jQuery(document).ready(function($) {
 			nav: true,
 			navText: ['<span class="icon-keyboard_arrow_left">', '<span class="icon-keyboard_arrow_right">']
 		});
+		$('.slide-five-item').owlCarousel({
+			center: false,
+			items: 5,
+			loop: true,
+			stagePadding: 0,
+			margin: 100,
+			smartSpeed: 1000,
+			autoplay: true,
+			pauseOnHover: false,
+			nav: true,
+			navText: ['<span class="icon-keyboard_arrow_left">', '<span class="icon-keyboard_arrow_right">']
+		});
 	};
 	siteCarousel();
 

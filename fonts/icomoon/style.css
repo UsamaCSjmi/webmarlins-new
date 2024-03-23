@@ -498,6 +498,9 @@
 .icon-twitter:before {
   content: "\f099";
 }
+.icon-x:before {
+  content: "\e900";
+}
 .icon-facebook:before {
   content: "\f09a";
 }
