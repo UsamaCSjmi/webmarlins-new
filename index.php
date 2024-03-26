@@ -1,8 +1,8 @@
 <?php
 include "./backend/country/Country.php";
 $country = Country::getCountryCode();
-if($country != "us" || $country != "US")
-      $country = "in";
-$country = strtolower($country);
+if($country == "")
+    $country = "in";
 header('location:'.$country."/");
+die();
 ?>
