@@ -181,11 +181,11 @@ jQuery(document).ready(function($) {
 			items: 5,
 			loop: true,
 			stagePadding: 0,
-			margin: 10,
+			margin: 50,
 			smartSpeed: 1000,
 			autoplay: true,
 			pauseOnHover: false,
-			nav: true,
+			nav: false,
 			navText: ['<span class="icon-keyboard_arrow_left">', '<span class="icon-keyboard_arrow_right">']
 		});
 		$('.slide-four-item').owlCarousel({
@@ -197,7 +197,7 @@ jQuery(document).ready(function($) {
 			smartSpeed: 1000,
 			autoplay: true,
 			pauseOnHover: false,
-			nav: true,
+			nav: false,
 			navText: ['<span class="icon-keyboard_arrow_left">', '<span class="icon-keyboard_arrow_right">']
 		});
 	};

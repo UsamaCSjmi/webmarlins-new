@@ -1814,3 +1814,20 @@ h1, h2, h3, h4, h5,
 
 .subcription-form button {
   border-radius: 0px 4px 4px 0px !important; }
+.client-logo{
+  overflow: hidden;
+  height: 0;
+  padding-bottom: 50%;
+  padding-top: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background-color: #fff;
+  border: 1px solid var(--theme-primary-color-custom);
+  /* box-shadow: 5px 4px 13px 0 #808080b8; */
+
+}
+.client-logo img{
+  width: 70% !important;
+}
