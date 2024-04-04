@@ -86,23 +86,23 @@
                   <li>
                     <a href="<?php echo SITE_PATH;?>" class="nav-link active">Home</a>
                   </li>
-                  <li><a href="#" class="nav-link">About Us</a></li>
+                  <li><a href="<?php echo SITE_PATH;?>/about" class="nav-link">About Us</a></li>
                   <li class="has-children">
                     <a href="#" class="nav-link">Services</a>
                     <ul class="dropdown">
                       <li><a href="<?php echo SITE_PATH;?>/seo-services">SEO</a></li>
-                      <li><a href="#">PPC</a></li>
-                      <li><a href="#">Web Designing</a></li>
-                      <li><a href="#">Social Media Marketing</a></li>
-                      <li><a href="#">Content Writing</a></li>
-                      <li><a href="#">Website Development</a></li>
-                      <li><a href="#">Email Marketing</a></li>
-                      <li><a href="#">Local SEO Services</a></li>
+                      <li><a href="<?php echo SITE_PATH;?>/ppc-services">PPC</a></li>
+                      <li><a href="<?php echo SITE_PATH;?>/web-designing-services">Web Designing</a></li>
+                      <li><a href="<?php echo SITE_PATH;?>/social-media-marketing-services">Social Media Marketing</a></li>
+                      <li><a href="<?php echo SITE_PATH;?>/content-writing-services">Content Writing</a></li>
+                      <li><a href="<?php echo SITE_PATH;?>/web-development-services">Website Development</a></li>
+                      <li><a href="<?php echo SITE_PATH;?>/email-marketing-services">Email Marketing</a></li>
+                      <li><a href="<?php echo SITE_PATH;?>/local-seo-services">Local SEO Services</a></li>
                     </ul>
                   </li>
                   <li><a href="#" class="nav-link">Blogs</a></li>
                   <li><a href="#" class="nav-link">Our Work</a></li>
-                  <li><a href="#" class="nav-link">Contact</a></li>
+                  <li><a href="<?php echo SITE_PATH;?>/contact" class="nav-link">Contact</a></li>
                 </ul>
               </nav>
             </div>

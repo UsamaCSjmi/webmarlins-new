@@ -10,7 +10,7 @@
               <div class="row justify-content-center mb-4">
                 <div class="col-md-10 text-center">
                   <h1>
-                    SEO Services
+                    Local SEO Services
                   </h1>
                   <p class="text-light">
                     Unlock the full potential of your online visibility with Web Marlins' comprehensive SEO services.
@@ -934,6 +934,51 @@
           </div>
         </div>
       </div>
+      <section class="site-section">
+        <div class="container">
+          <div class="row">
+            <div
+              class="col-lg-4 col-md-12 mb-5"
+              data-aos="fade-in"
+              data-aos-delay="0"
+            >
+              <h3 class="text-dark pr-5">Awards winning digital marketing agency</h3>
+            </div>
+            <div class="col-lg-8 col-md-12">
+              <div class="row w-100 owl-carousel slide-four-item">
+                <div
+                  class="col"
+                  data-aos="fade-in"
+                  data-aos-delay="100"
+                >
+                  <img src="images/clients-06.png" alt="Image" class="img-fluid" />
+                </div>
+                <div
+                  class="col"
+                  data-aos="fade-in"
+                  data-aos-delay="200"
+                >
+                  <img src="images/clients-07.png" alt="Image" class="img-fluid" />
+                </div>
+                <div
+                  class="col"
+                  data-aos="fade-in"
+                  data-aos-delay="300"
+                >
+                  <img src="images/clients-08.png" alt="Image" class="img-fluid" />
+                </div>
+                <div
+                  class="col"
+                  data-aos="fade-in"
+                  data-aos-delay="400"
+                >
+                  <img src="images/clients-04.svg" alt="Image" class="img-fluid" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
       <?php include_once("assets/blogs.php");?>
       <?php include_once("assets/contact-section.php");?>

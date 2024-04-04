@@ -5,6 +5,13 @@
             <div class="col-md-9">
               <div class="row">
                 <div class="col-md-5 mb-4">
+                  <a class="site-logo" href="<?php echo SITE_PATH;?>">
+                    <img
+                      src="images/LOGO-PNG.png"
+                      style="width:120px;margin-left:-15px;margin-top:-15px"
+                      alt="Web Marlins Logo"
+                    />
+                  </a>
                   <h2 class="footer-heading mb-4 text-light">About Us</h2>
                   <p class="text-light">
                     As a digital marketing company in Delhi, we will help you to succeed in the digital world and meet your company goals.

@@ -1837,3 +1837,111 @@ h1, h2, h3, h4, h5,
 .client-logo img{
   width: 70% !important;
 }
+
+
+
+
+
+
+
+.pricing-cards{
+  width: 90%;
+  align-items: flex-start;
+}
+.pricing-card{
+  width: 100%;
+  box-shadow: 0 4px 6px 0 rgba(50,50,93,.11);
+  border-radius: 5px;
+  /* padding: 40px; */
+  margin: 20px 0;
+  background: #fff;
+  height: fit-content;
+}
+.pricing-head{
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 25px;
+  font-size: 25px;
+  font-weight: bold;
+  color: #3b3663;
+  position: relative;
+  background: #fff;
+}
+.pricing-head::before{
+  content: "";
+  position: absolute;
+  width: calc(100% - 80px);
+  height: 1px;
+  z-index: 1;
+  bottom: 0;
+  left: 40px;
+  background-color: transparent;
+  background-image: linear-gradient(84deg, var(--light-color) 0%, var(--dark-color) 100%);
+  border-color: var(--dark-color);
+}
+.package-name{
+  background-color: transparent;
+  background-image: linear-gradient(84deg, var(--light-color) 0%, var(--dark-color) 100%);
+  border-color: var(--dark-color);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(0,0,0,0);
+}
+.package-details{
+  padding: 30px 40px 40px 40px;
+  font-size: 16px;
+  line-height: 1.8rem;
+  font-weight: 600;
+}
+.package-items-list{
+  border-top: 1px solid #ffffff;
+  /* border-bottom: 1px solid #ffffff; */
+  margin-left: 30px;
+  position: relative;
+}
+@media only screen and (max-width:600px){
+  .package-details{
+      padding: 10px;
+  }   
+  .package-items-list{
+      margin-left: 0;
+  }
+}
+/* .package-items-list ul:last-child{
+  border: none;
+} */
+.package-item{
+  position: relative;
+  list-style: disc;
+  /* margin: 10px 0;     */
+}
+.package-item::marker{
+  color: var(--dark-color);
+}
+.package-details .button{
+  font-size: 13px;
+}
+.green-price-card{
+  --dark-color: #34c478;
+  --light-color: #88fdb9;
+}
+.purple-price-card{
+  --dark-color: #6254e7;
+  --light-color: #9289f1;
+}
+.orange-price-card{
+  --dark-color: #f47215;
+  --light-color: #f0ac0e;
+}
+.main-up-pricing{
+  background-image: linear-gradient(84deg, #f0ac0e 0%, #f47215 100%);
+  box-shadow: 0px 4px 6px 1px rgba(0,0,0,0.11);
+}
+.main-up-pricing .pricing-head::before{
+  width: 0;
+}
+.main-up-pricing .grey-para,.main-up-pricing .package-item::marker{
+  color: #fff;
+}

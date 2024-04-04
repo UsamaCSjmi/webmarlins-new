@@ -200,6 +200,18 @@ jQuery(document).ready(function($) {
 			nav: false,
 			navText: ['<span class="icon-keyboard_arrow_left">', '<span class="icon-keyboard_arrow_right">']
 		});
+		$('#packages').owlCarousel({
+			center: false,
+			items: 4,
+			loop: true,
+			stagePadding: 0,
+			margin: 0,
+			smartSpeed: 1000,
+			autoplay: true,
+			pauseOnHover: false,
+			nav: false,
+			// navText: ['<span class="icon-keyboard_arrow_left">', '<span class="icon-keyboard_arrow_right">']
+		});
 	};
 	siteCarousel();
 
