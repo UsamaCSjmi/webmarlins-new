@@ -1,16 +1,16 @@
 <?php
 
 // Development Settings Usama
-define('SERVER_PATH',$_SERVER['DOCUMENT_ROOT'].'/webmarlins-new/in'); //edit
-define('SITE_PATH','http://localhost/development/webmarlins-new/in'); //edit
-define('BASE_PATH','/development/webmarlins-new/in'); //Edit path after htdocs in xampp
+// define('SERVER_PATH',$_SERVER['DOCUMENT_ROOT'].'/webmarlins-new/in'); //edit
+// define('SITE_PATH','http://localhost/development/webmarlins-new/in'); //edit
+// define('BASE_PATH','/development/webmarlins-new/in'); //Edit path after htdocs in xampp
 
 
 
 // Production Settings
-// define('SERVER_PATH',$_SERVER['DOCUMENT_ROOT'].'/in');
-// define('SITE_PATH','https://development.webmarlins.com/in');
-// define('BASE_PATH','/in');
+define('SERVER_PATH',$_SERVER['DOCUMENT_ROOT'].'/in');
+define('SITE_PATH','https://development.webmarlins.com/in');
+define('BASE_PATH','/in');
 
 $url = $_SERVER['REQUEST_URI'];
 $current_page = basename($url);
