@@ -30,7 +30,7 @@
       </div>
 
       
-      <form action="#" class="p-5 bg-white">
+      <form class="p-5 bg-white" onsubmit="validateForm(this)">
         <h2 class="h4 mb-5 text-center">Unlock Your PPC Potential with a Complimentary Proposal</h2>
 
         <div class="row form-group">
@@ -44,7 +44,7 @@
           </div>
           <div class="col-md-3 mb-3 mb-md-0">
             <label class="text-black" for="email">Phone</label>
-            <input type="number" id="phone" class="form-control" minlength="10" maxlength="10" />
+            <input type="number" id="phone" class="form-control" minlength="10" maxlength="10" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"/>
           </div>
           <div class="col-md-3 mb-3 mb-md-0">
             <input type="submit" value="Send Message" class="mt-4 btn btn-primary btn-md text-white" />
@@ -52,7 +52,7 @@
         </div>
       </form>
 
-
+      
       <section class="site-section">
         <div class="container">
           <div class="row align-items-center justify-content-around">
@@ -352,8 +352,6 @@
         </div>
       </section>
 
-
-      <?php include_once("assets/blogs.php");?>
       <?php include_once("assets/contact-section.php");?>
 
 

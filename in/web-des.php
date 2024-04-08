@@ -405,8 +405,6 @@
         </div>
       </div>
 
-      
-      <?php include_once("assets/blogs.php");?>
       <?php include_once("assets/contact-section.php");?>
 
 <?php include_once ("assets/footer.php")?>

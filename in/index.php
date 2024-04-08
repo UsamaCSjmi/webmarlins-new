@@ -32,8 +32,17 @@ elseif($router == '/email-marketing-services'){
 elseif($router == '/content-writing-services'){
     include_once('con-wrt.php');
 }
+elseif($router == '/our-work'){
+    include_once('work.php');
+}
 elseif($router == '/contact'){
     include_once('contact.php');
+}
+elseif($router == '/privacy-policy'){
+    include_once('privacy.php');
+}
+elseif($router == '/terms-and-conditions'){
+    include_once('tnc.php');
 }
 else{
     include_once('404.php');

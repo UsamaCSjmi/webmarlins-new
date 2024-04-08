@@ -209,11 +209,13 @@
           </div>
         </div>
       </section>
+
       <section class="section ft-feature-1">
-        <div class="container mb-lg-5 mb-sm-0">
+        <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-8 text-center">
-              <h2 class="site-section-heading text-center">Why Choose Us?</h2>
+              <p class="text-primary text-center">Strengths</p>
+              <h2 class="site-section-heading text-center">Our Strengths in Driving Digital Success</h2>
             </div>
           </div>
         </div>
@@ -228,50 +230,56 @@
                     class="img-fluid mb-4 mb-lg-0"
                   />
                 </div>
-                <div class="col-lg-3 ml-auto">
-                  <div class="mb-5">
-                    <h3 class="d-flex align-items-center">
-                      <span class="icon icon-beach_access mr-2"></span
-                      ><span>Professionalism</span>
-                    </h3>
-                    <p>
-                      Our Experts develop enduring, beautiful, and consistent brand identities. We provide you with the best visual identity. Designing attractive, versatile logos that represent your brand's values. Selecting fonts that complement your brand's tone and boost readability everywhere.
-                    </p>
-                    <p><a href="#">Read More</a></p>
-                  </div>
-
-                  <div>
-                    <h3 class="d-flex align-items-center">
-                      <span class="icon icon-build mr-2"></span
-                      ><span>Experienced Minds</span>
-                    </h3>
-                    <p>
-                      First impressions play a major role everywhere be it meeting a person or awaring your audience about your brand. Our experts' top most priority while moving forward with your brand would be to have an impressive website.  
-                    </p>
-                    <p><a href="#">Read More</a></p>
-                  </div>
-                </div>
-                <div class="col-lg-3">
-                  <div class="mb-5">
-                    <h3 class="d-flex align-items-center">
-                      <span class="icon icon-format_paint mr-2"></span
-                      ><span>Hit Targets</span>
-                    </h3>
-                    <p>
-                      Web Marlins helps clients develop plans to achieve their business targets. We make a complete digital marketing strategy that leverages the right channels and methods to reach and engage your target audience.
-                    </p>
-                    <p><a href="#">Read More</a></p>
-                  </div>
-
-                  <div>
-                    <h3 class="d-flex align-items-center">
-                      <span class="icon icon-question_answer mr-2"></span
-                      ><span>Affordability</span>
-                    </h3>
-                    <p>
-                      Our company offers the best website design and development services, with a focus on creating user-friendly and cost-effective websites. We provide solutions that cover every aspect of your business, which enables it to develop efficiently.
-                    </p>
-                    <p><a href="#">Read More</a></p>
+                <div class="col-lg-7 ml-auto">
+                  <div class="row w-100">
+                    <div class="col-lg-6">
+                      <div>
+                        <h3 class="d-flex align-items-center">
+                          <span class="icon icon-beach_access mr-2"></span
+                          ><span>A Holistic Approach</span>
+                        </h3>
+                        <p>
+                          Our Experts develop enduring, beautiful, and consistent brand identities. We provide you with the best visual identity. Designing attractive, versatile logos that represent your brand's values. Selecting fonts that complement your brand's tone and boost readability everywhere.
+                        </p>
+                        <p><a href="#">Read More</a></p>
+                      </div>
+                    </div>
+                    <div class="col-lg-6">
+                      <div>
+                        <h3 class="d-flex align-items-center">
+                          <span class="icon icon-build mr-2"></span
+                          ><span>Unleashing Creativity</span>
+                        </h3>
+                        <p>
+                          First impressions play a major role everywhere be it meeting a person or awaring your audience about your brand. Our experts' top most priority while moving forward with your brand would be to have an impressive website.  
+                        </p>
+                        <p><a href="#">Read More</a></p>
+                      </div>
+                    </div>
+                    <div class="col-lg-6">
+                      <div>
+                        <h3 class="d-flex align-items-center">
+                          <span class="icon icon-format_paint mr-2"></span
+                          ><span>Proven Track Record</span>
+                        </h3>
+                        <p>
+                          Web Marlins helps clients develop plans to achieve their business targets. We make a complete digital marketing strategy that leverages the right channels and methods to reach and engage your target audience.
+                        </p>
+                        <p><a href="#">Read More</a></p>
+                      </div>
+                    </div>
+                    <div class="col-lg-6">
+                      <div>
+                        <h3 class="d-flex align-items-center">
+                          <span class="icon icon-question_answer mr-2"></span
+                          ><span>Tailored Solutions</span>
+                        </h3>
+                        <p>
+                          Our company offers the best website design and development services, with a focus on creating user-friendly and cost-effective websites. We provide solutions that cover every aspect of your business, which enables it to develop efficiently.
+                        </p>
+                        <p><a href="#">Read More</a></p>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -935,7 +943,6 @@
         </div>
       </div>
 
-      <?php include_once("assets/blogs.php");?>
       <?php include_once("assets/contact-section.php");?>
 
 <?php include_once ("assets/footer.php")?>

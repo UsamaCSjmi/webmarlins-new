@@ -101,7 +101,7 @@
                     </ul>
                   </li>
                   <li><a href="#" class="nav-link">Blogs</a></li>
-                  <li><a href="#" class="nav-link">Our Work</a></li>
+                  <li><a href="<?php echo SITE_PATH;?>/our-work" class="nav-link">Our Work</a></li>
                   <li><a href="<?php echo SITE_PATH;?>/contact" class="nav-link">Contact</a></li>
                 </ul>
               </nav>

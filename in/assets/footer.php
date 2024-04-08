@@ -16,7 +16,7 @@
                   <p class="text-light">
                     As a digital marketing company in Delhi, we will help you to succeed in the digital world and meet your company goals.
                   </p>
-                  <a href="#" class="mb-3 text-light">Read more ...</a>
+                  <a href="<?php echo SITE_PATH?>/about" class="mb-3 text-light">Read more ...</a>
                   <br />
                   <br />
                   <a href="#" class="pl-0 pr-3 text-light"
@@ -34,32 +34,32 @@
                 <div class="col-md-3 ml-auto">
                   <h2 class="footer-heading mb-4 text-light">Services</h2>
                   <ul class="list-unstyled">
-                    <li><a href="#" class="text-light">SEO</a></li>
-                    <li><a href="#" class="text-light">PPC</a></li>
+                    <li><a href="<?php echo SITE_PATH?>/seo-services" class="text-light">SEO</a></li>
+                    <li><a href="<?php echo SITE_PATH?>/ppc-services" class="text-light">PPC</a></li>
                     <li>
-                      <a href="#" class="text-light">Social Media Marketing</a>
+                      <a href="<?php echo SITE_PATH?>/social-media-marketing-services" class="text-light">Social Media Marketing</a>
                     </li>
-                    <li><a href="#" class="text-light">Web Designing</a></li>
-                    <li><a href="#" class="text-light">Content Writing</a></li>
+                    <li><a href="<?php echo SITE_PATH?>/web-designing-services" class="text-light">Web Designing</a></li>
+                    <li><a href="<?php echo SITE_PATH?>/content-writing-services" class="text-light">Content Writing</a></li>
                     <li>
-                      <a href="#" class="text-light">Website Development</a>
+                      <a href="<?php echo SITE_PATH?>/web-development-services" class="text-light">Website Development</a>
                     </li>
-                    <li><a href="#" class="text-light">Email Marketing</a></li>
+                    <li><a href="<?php echo SITE_PATH?>/email-marketing-services" class="text-light">Email Marketing</a></li>
                     <li>
-                      <a href="#" class="text-light">Local SEO Services</a>
+                      <a href="<?php echo SITE_PATH?>/local-seo-services" class="text-light">Local SEO Services</a>
                     </li>
                   </ul>
                 </div>
                 <div class="col-md-3">
                   <h2 class="footer-heading mb-4 text-light">Quick Links</h2>
                   <ul class="list-unstyled">
-                    <li><a href="#" class="text-light">Contact</a></li>
-                    <li><a href="#" class="text-light">Privacy Policy</a></li>
+                    <li><a href="<?php echo SITE_PATH?>/contact" class="text-light">Contact</a></li>
+                    <li><a href="<?php echo SITE_PATH?>/privacy-policy" class="text-light">Privacy Policy</a></li>
                     <li>
-                      <a href="#" class="text-light">Terms & Conditions</a>
+                      <a href="<?php echo SITE_PATH?>/terms-and-conditions" class="text-light">Terms & Conditions</a>
                     </li>
-                    <li><a href="#" class="text-light">About Us</a></li>
-                    <li><a href="#" class="text-light">Home</a></li>
+                    <li><a href="<?php echo SITE_PATH?>/about" class="text-light">About Us</a></li>
+                    <li><a href="<?php echo SITE_PATH?>/" class="text-light">Home</a></li>
                     <li><a href="#" class="text-light">Sitemap</a></li>
                   </ul>
                 </div>
