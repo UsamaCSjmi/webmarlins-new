@@ -28,7 +28,6 @@
       <div class="row mb-5 justify-content-center">
         <div class="col-md-8 text-center">
           <h2 class="site-section-heading text-center">Our Works</h2>
-          <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, itaque neque, delectus odio iure explicabo.</p>
         </div>
       </div>
     </div>
