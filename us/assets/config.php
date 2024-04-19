@@ -3,7 +3,7 @@
 // Development Settings Usama
 // define('SERVER_PATH',$_SERVER['DOCUMENT_ROOT'].'/webmarlins-new/us'); //edit
 // define('SITE_PATH','http://localhost/development/webmarlins-new/us'); //edit
-// define('BASE_PATH','/development/webmarlins-new/in'); //Edit path after htdocs in xampp
+// define('BASE_PATH','/development/webmarlins-new/us'); //Edit path after htdocs in xampp
 
 
 
@@ -14,7 +14,7 @@ define('BASE_PATH','/us');
 
 $url = $_SERVER['REQUEST_URI'];
 $current_page = basename($url);
-if($current_page == "webmarlins-new" || $current_page == "in" ||$current_page == "" || $current_page == "webmarlins-new/in"){
+if($current_page == "webmarlins-new" || $current_page == "us" ||$current_page == "" || $current_page == "webmarlins-new/us"){
     $current_page = "home";
 }
 $current_page_arr = explode('.',$current_page);
