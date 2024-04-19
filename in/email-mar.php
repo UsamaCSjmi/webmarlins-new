@@ -1,7 +1,7 @@
 
 <?php include_once("assets/header.php")?>
 
-      <div class="site-blocks-cover bg-dark-image-2">
+      <div class="site-blocks-cover bg-dark-image-2 email-mkt-bg">
         <div class="container">
           <div
             class="row align-items-center justify-content-center text-center"
@@ -30,12 +30,69 @@
       </div>
 
       
+      <div class="site-section" id="about-section">
+        <div class="container">
+          <div class="row mb-5">
+            <div class="col-md-12">
+              <div class="row">
+                <div class="col-12">
+                  <div class="text-center pb-1">
+                    <h2 class="site-section-heading">Web Marlins: Email Marketing with Impact</h2>
+                    <p class="text-primary">
+                      At Web Marlins, our email marketing services in Delhi are crafted to propel your business to new heights in the digital realm. We are your trusted partner in navigating the ever-evolving digital landscape and achieving remarkable online success. Trust Web Marlins to leverage cutting-edge techniques and industry expertise to deliver tailored solutions that drive brand visibility, engage your target audience, and boost conversions.
+                    </p>
+                  </div>
+                </div>
+                <div class="col-sm-12 col-md-6 mb-md-5 mb-0 col-lg-4">
+                  <div class="unit-4 d-block">
+                    <div class="unit-4-icon mr-4 mb-3">
+                      <span class="text-primary icon-phonelink"></span>
+                    </div>
+                    <div>
+                      <h3 class="text-primary">Promotional Emails</h3>
+                      <p>
+                        Web Marlins crafts captivating promotional emails that cut through the noise, engaging your audience with persuasive copy and eye-catching designs. Drive conversions and boost sales with our targeted promotional email campaigns.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-12 col-md-6 mb-md-5 mb-0 col-lg-4">
+                  <div class="unit-4 d-block">
+                    <div class="unit-4-icon mr-4 mb-3">
+                      <span class="text-primary icon-extension"></span>
+                    </div>
+                    <div>
+                      <h3 class="text-primary">Bulk Emails</h3>
+                      <p>
+                        Reach a wide audience effectively with Web Marlins' bulk email marketing services in Delhi. Our advanced technology ensures seamless delivery and personalized content at scale, allowing you to engage and nurture a large subscriber base easily.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-12 col-md-6 mb-md-5 mb-0 col-lg-4">
+                  <div class="unit-4 d-block">
+                    <div class="unit-4-icon mr-4 mb-3">
+                      <span class="text-primary icon-phonelink"></span>
+                    </div>
+                    <div>
+                      <h3 class="text-primary">Automated Emails</h3>
+                      <p>
+                        With the help of Web Marlins' automated email solutions, simplify your client experience. Our email marketing automation expertise lets you nurture leads, boost customer loyalty, and drive conversions automatically with everything from personalized welcome emails to reminders about abandoned carts.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
             
       <section class="site-section">
         <div class="container">
           <div class="row align-items-center justify-content-around">
             <div class="col-lg-5">
-              <img src="images/what-we-do.avif" alt="Image" class="img-fluid" />
+              <img src="images/email-mar-foster.webp" alt="Image" class="img-fluid" />
             </div>
             <div class="col-lg-7">
               <div class="row mt-3">
@@ -93,7 +150,7 @@
             </div>
 
             <div class="col-lg-5">
-              <img src="images/what-we-do.avif" alt="Image" class="img-fluid" />
+              <img src="images/emai-mar-service.avif" alt="Image" class="img-fluid" />
             </div>
           </div>
         </div>

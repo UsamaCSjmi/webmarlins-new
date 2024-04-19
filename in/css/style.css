@@ -71,6 +71,66 @@ h1, h2, h3, h4, h5,
   background-repeat: no-repeat !important;
   background-blend-mode: darken !important;
 }
+.web-des{
+  background: url(../images/web-des.jpg),#00000099 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-blend-mode: darken !important;
+}
+.seo-bg{
+  background: url(../images/seo.avif),#00000099 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-blend-mode: darken !important;
+}
+.about-bg{
+  background: url(../images/about.avif),#00000099 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-blend-mode: darken !important;
+}
+.ppc-bg{
+  background: url(../images/ppc-bg.jpg),#00000099 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-blend-mode: darken !important;
+}
+.smm-bg{
+  background: url(../images/smm-bg.jpg),#00000099 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-blend-mode: darken !important;
+}
+.con-wrt-bg{
+  background: url(../images/con-wrt-bg.jpg),#00000099 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-blend-mode: darken !important;
+}
+.web-dev-bg{
+  background: url(../images/web-dev-bg.avif),#00000099 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-blend-mode: darken !important;
+}
+.email-mkt-bg{
+  background: url(../images/email-mkt-bg.avif),#00000099 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-blend-mode: darken !important;
+}
+.local-seo-bg{
+  background: url(../images/local-seo-bg.avif),#00000099 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-blend-mode: darken !important;
+}
+.contact-bg{
+  background: url(../images/contact-bg.jpg),#00000099 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-blend-mode: darken !important;
+}
 .color-black-opacity-5 {
   color: rgba(0, 0, 0, 0.5); }
 

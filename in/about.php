@@ -1,5 +1,5 @@
 <?php include_once("assets/header.php")?>
-  <div class="site-blocks-cover bg-dark-image-2">
+  <div class="site-blocks-cover bg-dark-image-2 about-bg">
     <div class="container">
       <div
         class="row align-items-center justify-content-center text-center"
@@ -43,7 +43,7 @@
         </div>
 
         <div class="col-lg-5">
-          <img src="images/what-we-do.avif" alt="Image" class="img-fluid" />
+          <img src="images/revol.avif" alt="Image" class="img-fluid" />
         </div>
       </div>
     </div>
@@ -64,7 +64,7 @@
           <div class="row align-items-center">
             <div class="col-lg-5">
               <img
-                src="images/why-chose-us.jpg"
+                src="images/strengths.jpg"
                 alt="Image"
                 class="img-fluid mb-4 mb-lg-0"
               />
@@ -78,7 +78,7 @@
                       ><span>A Holistic Approach</span>
                     </h3>
                     <p>
-                      Our Experts develop enduring, beautiful, and consistent brand identities. We provide you with the best visual identity. Designing attractive, versatile logos that represent your brand's values. Selecting fonts that complement your brand's tone and boost readability everywhere.
+                      We employ a holistic approach that integrates many channels and techniques to create a seamless brand experience for your customers rather than merely concentrating on individual marketing methods. 
                     </p>
                     <p><a href="#">Read More</a></p>
                   </div>
@@ -90,7 +90,7 @@
                       ><span>Unleashing Creativity</span>
                     </h3>
                     <p>
-                      First impressions play a major role everywhere be it meeting a person or awaring your audience about your brand. Our experts' top most priority while moving forward with your brand would be to have an impressive website.  
+                      Our team is driven by unrestricted creativity, constantly pushing the envelope to develop unique and eye-catching campaigns that distinguish your business.
                     </p>
                     <p><a href="#">Read More</a></p>
                   </div>
@@ -102,7 +102,7 @@
                       ><span>Proven Track Record</span>
                     </h3>
                     <p>
-                      Web Marlins helps clients develop plans to achieve their business targets. We make a complete digital marketing strategy that leverages the right channels and methods to reach and engage your target audience.
+                      We have developed a reputation for providing real outcomes thanks to our years of experience and portfolio of accomplished projects. Our case studies prove our ability to promote online marketing services and their success.
                     </p>
                     <p><a href="#">Read More</a></p>
                   </div>
@@ -114,7 +114,7 @@
                       ><span>Tailored Solutions</span>
                     </h3>
                     <p>
-                      Our company offers the best website design and development services, with a focus on creating user-friendly and cost-effective websites. We provide solutions that cover every aspect of your business, which enables it to develop efficiently.
+                      We know that every company is different and that no one size fits all. To provide tailored solutions that match your brand identity and objectives, we take the time to understand your goals, challenges, and target audience.
                     </p>
                     <p><a href="#">Read More</a></p>
                   </div>
@@ -141,73 +141,53 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-lg-6 mb-4">
-          <div class="box-with-humber bg-white p-5">
+          <div class="box-with-humber bg-white p-5 h-100">
             <span
               class="icon icon-format_paint mr-2 text-primary h3 mb-3 d-block"
             ></span>
             <h2 class="text-primary">Innovative Strategy Development</h2>
             <p class="mb-4">
-              Our Mission is to build long-term relationships with trust, honesty, and integrity, our priority is customer satisfaction and happiness.
+              In this phase, we dive deep into your business ecosystem, unraveling its complexities to craft a customized roadmap for your digital marketing success. Our online marketing company has an expert team of strategists who employ an accurate blend of data analysis, market research, and trend forecasting to identify your niche's most effective channels and techniques.
             </p>
-            <!-- <ul class="list-unstyled ul-check primary">
-              <li>Customer Experience</li>
-              <li>Product Management</li>
-              <li>Proof of Concept</li>
-            </ul> -->
           </div>
         </div>
 
         <div class="col-md-12 col-lg-6 mb-4">
-          <div class="box-with-humber bg-white p-5">
+          <div class="box-with-humber bg-white p-5 h-100">
             <span
               class="icon icon-palette mr-2 text-primary h3 mb-3 d-block"
             ></span>
 
             <h2 class="text-primary">Engaging Content Creation</h2>
             <p class="mb-4">
-              With continuous experiments and the will to try new things to remain ahead in this digital world, we're known for our unique thinking and new ideas. 
+              Content is the lifeblood of top digital marketing services, and we excel at breathing life into your brand through captivating storytelling. With a sharp eye for detail and a talent for wordsmithery, our content writers build fascinating storylines that connect with your target audience and promote brand loyalty.
             </p>
-            <!-- <ul class="list-unstyled ul-check primary">
-              <li>Web Design</li>
-              <li>Branding</li>
-              <li>Web &amp; App Development</li>
-            </ul> -->
           </div>
         </div>
 
         <div class="col-md-12 col-lg-6 mb-4">
-          <div class="box-with-humber bg-white p-5">
+          <div class="box-with-humber bg-white p-5 h-100">
             <span
               class="icon icon-laptop2 mr-2 text-primary h3 mb-3 d-block"
             ></span>
 
             <h2 class="text-primary">Technical SEO Optimization</h2>
             <p class="mb-4">
-              Our strategy for designing a brand is to highlight its USP and help the brand in targeting the audience and communicate its brand stories in a much better way.  
+              A robust foundation is necessary for an effective online presence. Behind the scenes, our technical SEO wizards optimize the architecture of your website to make it likely for search engines to crawl and index your material. We take every possible measure to increase your website's exposure and rating, from site speed improvements to schema markup deployment.
             </p>
-            <!-- <ul class="list-unstyled ul-check primary">
-              <li>Social Media</li>
-              <li>Paid Campaigns</li>
-              <li>Marketing &amp; SEO</li>
-            </ul> -->
           </div>
         </div>
 
         <div class="col-md-12 col-lg-6 mb-4">
-          <div class="box-with-humber bg-white p-5">
+          <div class="box-with-humber bg-white p-5 h-100">
             <span
               class="icon icon-laptop2 mr-2 text-primary h3 mb-3 d-block"
             ></span>
 
             <h2 class="text-primary">Data-driven Analytics</h2>
             <p class="mb-4">
-              Our strategy for designing a brand is to highlight its USP and help the brand in targeting the audience and communicate its brand stories in a much better way.  
+              At Web Marlins, we think the power of data can fuel your success in digital marketing data. Our analytical gurus use cutting-edge tracking tools and thorough data analysis methodologies to give you useful insights. We guarantee you stay one step ahead of the competition and make wise marketing choices by continuously observing and adjusting your efforts.
             </p>
-            <!-- <ul class="list-unstyled ul-check primary">
-              <li>Social Media</li>
-              <li>Paid Campaigns</li>
-              <li>Marketing &amp; SEO</li>
-            </ul> -->
           </div>
         </div>
       </div>

@@ -1,7 +1,7 @@
 
 <?php include_once("assets/header.php")?>
 
-      <div class="site-blocks-cover bg-dark-image-2">
+      <div class="site-blocks-cover bg-dark-image-2 ppc-bg">
         <div class="container">
           <div
             class="row align-items-center justify-content-center text-center"
@@ -51,7 +51,6 @@
           </div>
         </div>
       </form>
-
       
       <section class="site-section">
         <div class="container">

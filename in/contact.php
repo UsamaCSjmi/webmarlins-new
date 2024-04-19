@@ -1,5 +1,5 @@
 <?php include_once("assets/header.php")?>
-  <div class="site-blocks-cover bg-dark-image-2">
+  <div class="site-blocks-cover bg-dark-image-2 contact-bg">
     <div class="container">
       <div
         class="row align-items-center justify-content-center text-center"
@@ -62,6 +62,5 @@
     </div>
   </section>
   <?php include_once("assets/contact-section.php");?>
-  <?php include_once("assets/blogs.php");?>
   
 <?php include_once ("assets/footer.php")?>

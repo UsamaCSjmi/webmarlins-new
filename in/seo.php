@@ -1,7 +1,6 @@
-
 <?php include_once("assets/header.php")?>
 
-      <div class="site-blocks-cover bg-dark-image-2">
+      <div class="site-blocks-cover bg-dark-image-2 seo-bg">
         <div class="container">
           <div
             class="row align-items-center justify-content-center text-center"
@@ -28,7 +27,6 @@
           </div>
         </div>
       </div>
-
       
       <section class="site-section" id="contact-section">
         <div class="container">
@@ -101,109 +99,81 @@
 
       <section class="site-section">
         <div class="container">
-          <h3 class="text-primary text-center mt-3">What we do</h3>
           <h2 class="text-primary text-center mb-3">
-            Web Marlins: Boosting Your Online Presence!!
+            Result-Driven SEO Services in Delhi NCR
           </h2>
+          <p class="text-primary text-center mb-3">
+            Our SEO services in Delhi are designed to deliver tangible results, propelling your business to success in the Delhi NCR region.
+          </p>
           <div class="row">
             <div class="col-md-6 col-lg-4 ">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-format_paint mr-2 text-primary h3 mb-3 d-block"
                 ></span>
                 <h2 class="text-primary">Global SEO Services</h2>
                 <p class="mb-4">
-                  Our Mission is to build long-term relationships with trust, honesty, and integrity, our priority is customer satisfaction and happiness.
+                  Expand your reach across borders with our global SEO marketing strategies, targeting international markets and driving organic visibility.
                 </p>
-                <!-- <ul class="list-unstyled ul-check primary">
-                  <li>Customer Experience</li>
-                  <li>Product Management</li>
-                  <li>Proof of Concept</li>
-                </ul> -->
               </div>
             </div>
             <div class="col-md-6 col-lg-4 ">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-palette mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
                 <h2 class="text-primary">National SEO Services</h2>
                 <p class="mb-4">
-                  With continuous experiments and the will to try new things to remain ahead in this digital world, we're known for our unique thinking and new ideas. 
+                  Dominate your countrywide market with our national SEO services, ensuring your website ranks high in search results nationwide.
                 </p>
-                <!-- <ul class="list-unstyled ul-check primary">
-                  <li>Web Design</li>
-                  <li>Branding</li>
-                  <li>Web &amp; App Development</li>
-                </ul> -->
               </div>
             </div>
             <div class="col-md-6 col-lg-4 ">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-laptop2 mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
                 <h2 class="text-primary">Local SEO Services</h2>
                 <p class="mb-4">
-                  Our strategy for designing a brand is to highlight its USP and help the brand in targeting the audience and communicate its brand stories in a much better way.  
+                  Capture the local market with our localized SEO tactics, optimizing your online presence to attract customers in your specific geographical area.
                 </p>
-                <!-- <ul class="list-unstyled ul-check primary">
-                  <li>Social Media</li>
-                  <li>Paid Campaigns</li>
-                  <li>Marketing &amp; SEO</li>
-                </ul> -->
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mt-3 mb-4">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-format_paint mr-2 text-primary h3 mb-3 d-block"
                 ></span>
                 <h2 class="text-primary">Professional SEO Services</h2>
                 <p class="mb-4">
-                  Our Mission is to build long-term relationships with trust, honesty, and integrity, our priority is customer satisfaction and happiness.
+                  Count on our professional SEO company to provide skilled SEO services, utilizing cutting-edge tactics and strategies to maximize your online success.
                 </p>
-                <!-- <ul class="list-unstyled ul-check primary">
-                  <li>Customer Experience</li>
-                  <li>Product Management</li>
-                  <li>Proof of Concept</li>
-                </ul> -->
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mt-3 mb-4">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-palette mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
                 <h2 class="text-primary">Ecommerce SEO Services</h2>
                 <p class="mb-4">
-                  With continuous experiments and the will to try new things to remain ahead in this digital world, we're known for our unique thinking and new ideas. 
+                  Using a specialized SEO service provider in Delhi for online retail businesses, you can improve the exposure of your e-commerce website and the rankings of your products.
                 </p>
-                <!-- <ul class="list-unstyled ul-check primary">
-                  <li>Web Design</li>
-                  <li>Branding</li>
-                  <li>Web &amp; App Development</li>
-                </ul> -->
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mt-3 mb-4">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-laptop2 mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
                 <h2 class="text-primary">SEO Services for Small Business</h2>
                 <p class="mb-4">
-                  Our strategy for designing a brand is to highlight its USP and help the brand in targeting the audience and communicate its brand stories in a much better way.  
+                  Small businesses can compete online and increase their exposure, traffic, and conversions with the help of affordable SEO services for small businesses.
                 </p>
-                <!-- <ul class="list-unstyled ul-check primary">
-                  <li>Social Media</li>
-                  <li>Paid Campaigns</li>
-                  <li>Marketing &amp; SEO</li>
-                </ul> -->
               </div>
             </div>
           </div>
@@ -214,8 +184,7 @@
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-8 text-center">
-              <p class="text-primary text-center">Strengths</p>
-              <h2 class="site-section-heading text-center">Our Strengths in Driving Digital Success</h2>
+              <h2 class="site-section-heading text-center h2">Our Process</h2>
             </div>
           </div>
         </div>
@@ -223,66 +192,126 @@
           <div class="row align-items-stretch">
             <div class="col-12 w-100 ft-feature-1-content">
               <div class="row align-items-center">
-                <div class="col-lg-5">
-                  <img
-                    src="images/why-chose-us.jpg"
-                    alt="Image"
-                    class="img-fluid mb-4 mb-lg-0"
-                  />
-                </div>
-                <div class="col-lg-7 ml-auto">
+                <div class="col-lg-12">
                   <div class="row w-100">
-                    <div class="col-lg-6">
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
                       <div>
                         <h3 class="d-flex align-items-center">
                           <span class="icon icon-beach_access mr-2"></span
-                          ><span>A Holistic Approach</span>
+                          ><span>Keyword Analysis</span>
                         </h3>
                         <p>
-                          Our Experts develop enduring, beautiful, and consistent brand identities. We provide you with the best visual identity. Designing attractive, versatile logos that represent your brand's values. Selecting fonts that complement your brand's tone and boost readability everywhere.
+                          We do careful research and analysis to find relevant keywords that support your business goals and increase targeted traffic to your website.
                         </p>
-                        <p><a href="#">Read More</a></p>
                       </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
                       <div>
                         <h3 class="d-flex align-items-center">
                           <span class="icon icon-build mr-2"></span
-                          ><span>Unleashing Creativity</span>
+                          ><span>Website Audit</span>
                         </h3>
                         <p>
-                          First impressions play a major role everywhere be it meeting a person or awaring your audience about your brand. Our experts' top most priority while moving forward with your brand would be to have an impressive website.  
+                          Our thorough evaluation looks at the functionality of your website, identifying areas for development and improving its usability, speed, and structure.
                         </p>
-                        <p><a href="#">Read More</a></p>
                       </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
                       <div>
                         <h3 class="d-flex align-items-center">
                           <span class="icon icon-format_paint mr-2"></span
-                          ><span>Proven Track Record</span>
+                          ><span>Landing Page Review</span>
                         </h3>
                         <p>
-                          Web Marlins helps clients develop plans to achieve their business targets. We make a complete digital marketing strategy that leverages the right channels and methods to reach and engage your target audience.
+                          We carefully examine your landing pages to ensure they are interesting, convincing, and conversion-optimized, giving visitors a smooth and enjoyable experience.
                         </p>
-                        <p><a href="#">Read More</a></p>
                       </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
                       <div>
                         <h3 class="d-flex align-items-center">
                           <span class="icon icon-question_answer mr-2"></span
-                          ><span>Tailored Solutions</span>
+                          ><span>Blog Setup & Integration</span>
                         </h3>
                         <p>
-                          Our company offers the best website design and development services, with a focus on creating user-friendly and cost-effective websites. We provide solutions that cover every aspect of your business, which enables it to develop efficiently.
+                          We create an engaging blog presence for you and seamlessly integrate it into your website to improve your content strategy and engage your audience.
                         </p>
-                        <p><a href="#">Read More</a></p>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+                      <div>
+                        <h3 class="d-flex align-items-center">
+                          <span class="icon icon-beach_access mr-2"></span
+                          ><span>Meta Element Optimization</span>
+                        </h3>
+                        <p>
+                          Our specialists will optimize your meta tags, titles, and descriptions to ensure they are interesting, keyword-rich, and consistent with best practices for search engines.
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+                      <div>
+                        <h3 class="d-flex align-items-center">
+                          <span class="icon icon-build mr-2"></span
+                          ><span>Comments Management</span>
+                        </h3>
+                        <p>
+                          We actively manage, and moderate the comments left on your website to encourage interaction and uphold a welcoming online community.
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+                      <div>
+                        <h3 class="d-flex align-items-center">
+                          <span class="icon icon-format_paint mr-2"></span
+                          ><span>Blog Posting</span>
+                        </h3>
+                        <p>
+                          Our staff writes and publishes educational, interesting, and optimized blog entries that increase organic traffic and establish you as a thought leader in your field.
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+                      <div>
+                        <h3 class="d-flex align-items-center">
+                          <span class="icon icon-question_answer mr-2"></span
+                          ><span>Link Building</span>
+                        </h3>
+                        <p>
+                          We use smart link-building approaches to create high-quality, authoritative backlinks that strengthen your website's authority and raise its search engine ranks.
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+                      <div>
+                        <h3 class="d-flex align-items-center">
+                          <span class="icon icon-format_paint mr-2"></span
+                          ><span>Web Page Content Optimization</span>
+                        </h3>
+                        <p>
+                          We optimize your website's content, incorporating targeted keywords, compelling messaging, and persuasive CTAs to drive conversions and enhance user engagement.
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+                      <div>
+                        <h3 class="d-flex align-items-center">
+                          <span class="icon icon-question_answer mr-2"></span
+                          ><span>Reporting</span>
+                        </h3>
+                        <p>
+                          Our thorough reports offer insights into important performance metrics, enabling you to monitor the development of your SEO campaign and make informed decisions for ongoing development.
+                        </p>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
+            </div>
+            <div class="col-12">
+              <p class="text-primary text-center">
+                Put your faith in the top digital marketing agency in Delhi with our systematic approach as we go through each process stage, guaranteeing that your website experiences improved exposure, higher organic traffic, and long-term growth in the digital sphere.
+              </p>
             </div>
           </div>
         </div>
@@ -319,7 +348,7 @@
                 <div>
                   <h3>SEO</h3>
                   <p>
-                    We improve your search engine rankings and provide relevant visitors to your website with keyword research and on-page seo optimization.
+                    Utilise SEO to increase the online visibility and presence of your website.
                   </p>
                 </div>
               </div>
@@ -344,9 +373,8 @@
                 <div>
                   <h3>Impoved Ranking</h3>
                   <p>
-                    Get rapid results with business-specific PPC advertising, each click counts toward you.
+                    Our effective strategies will help your website rank higher in search engine results by improving its natural visibility.
                   </p>
-                  <p><a href="#">Learn More</a></p>
                 </div>
               </div>
             </div>
@@ -370,7 +398,7 @@
                 <div>
                   <h3>Relevant Traffic</h3>
                   <p>
-                    By creating content and managing communities, we help you use social media to build meaningful relationships and convert them into leads.
+                    Use targeted SEO tactics to draw the correct audience to your website, generating high-quality and relevant traffic that boosts the possibility of conversions.
                   </p>
                 </div>
               </div>
@@ -395,504 +423,21 @@
                 <div>
                   <h3>More Leads</h3>
                   <p>
-                    Our designers build attractive, user-friendly websites that engage your audience.
+                    With our SEO techniques, which enhance user experience and encourage calls to action, you can turn website visitors into potential customers and generate a consistent stream of worthwhile leads.
                   </p>
-                  <p><a href="#">Learn More</a></p>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </section>
-      <!-- 
-            <section class="site-section">
-              <div class="row w-100">
-                <div class=" pricing-cards col-lg-12">
-                  <div class="row">
-                    <div class="pricing-card col-lg-4 orange-price-card main-up-pricing" style="z-index: 1;">
-                        <div class="pricing-head" style="align-items: flex-start;">
-                            <div class="package-name">GENERATE LEADS ONLINE</div>
-                            <p class="grey-para" style="color:grey;font-size:15px;margin-top:10px">
-                            THAT WORKS FOR YOUR BUSINESS
-                            </p>
-                            <a href="tel:+919560518618" class="button button-custom-color">+91 - 9560 518 618</a>
-                        </div>
-                        <div class="package-details">                        
-                            <ul class="package-items-list list-1">
-                                <li class="package-item grey-para" onclick="showList(1)">Initial Review and Analysis</li>
-                                <li class="package-item grey-para">Local Optimization</li>
-                                <li class="package-item grey-para">In-Depth Site Analysis</li>
-                                <li class="package-item grey-para">Keyword Analysis</li>
-                                <li class="package-item grey-para">Competition Analysis</li>
-                                <li class="package-item grey-para">Duplicate Content Check</li>
-                                <li class="package-item grey-para">Baseline Ranking Check</li>
-                                <li class="package-item grey-para">Keyword URL Mapping</li>
-                                <li class="package-item grey-para">Broken Links Check</li>
-                                <li class="package-item grey-para">Google Penalty Check</li>
-                            </ul>
-                            <ul class="package-items-list list-2">
-                                <li class="package-item grey-para" onclick="showList(2)">On Page Optimization</li>
-                                <li class="package-item grey-para">Canonicalization</li>
-                                <li class="package-item grey-para">Header Tags Optimization</li>
-                                <li class="package-item grey-para">Internal Link Structuring & Optimization</li>
-                                <li class="package-item grey-para">Existing Content Optimization</li>
-                                <li class="package-item grey-para">Robots.Txt Creation/Analysis</li>
-                                <li class="package-item grey-para">Xml Sitemap/Analysis</li>
-                                <li class="package-item grey-para">Google Webmaster Tools Set Up</li>
-                                <li class="package-item grey-para">Google Analytics Set Up</li>
-                                <li class="package-item grey-para">Page Speed Optimization Analysis</li>
-                                <li class="package-item grey-para">Fresh Web Content Suggestions</li>
-                                <li class="package-item grey-para">Title & Meta Tags Optimization</li>
-                                <li class="package-item grey-para">Image & Hyperlink Optimization</li>
-                                <li class="package-item grey-para">Bing Webmaster Tools Set Up</li>
-                                <li class="package-item grey-para">HTML Site Map Creation</li>
-                                <li class="package-item grey-para">Optimization of robots.txt & Google Bot crawls</li>
-                                <li class="package-item grey-para">Footer Optimization</li>
-                                <li class="package-item grey-para">Website usability analysis</li>
-                                <li class="package-item grey-para">Check Header Status, Meta Robots, Google Cache of Pages</li>
-                                <li class="package-item grey-para">Check Mobility Issues</li>
-                                <li class="package-item grey-para">Custom 404 Page</li>
-                                <li class="package-item grey-para">URL structure Analysis</li>
-                            </ul>
-                            <ul class="package-items-list list-3">
-                                <li class="package-item grey-para" onclick="showList(3)">Content Marketing</li>
-                                <li class="package-item grey-para">Blog Writing</li>
-                                <li class="package-item grey-para">PDF Creation</li>
-                                <li class="package-item grey-para">Press Release Writing</li>
-                                <li class="package-item grey-para">Guest Post Writing</li>
-                                <li class="package-item grey-para">Article Writing</li>
-                                <li class="package-item grey-para">Infographic Creation</li>
-                                <li class="package-item grey-para">PPT Creation</li>
-                            </ul>
-                            <ul class="package-items-list list-4">
-                                <li class="package-item grey-para" onclick="showList(4)">Off Page</li>
-                                <li class="package-item grey-para">Profile Creation</li>
-                                <li class="package-item grey-para">Blog Submission</li>
-                                <li class="package-item grey-para">Guest Post Submission</li>
-                                <li class="package-item grey-para">Article Submission</li>
-                                <li class="package-item grey-para">Company Profile Listing Social Bookmarking</li>
-                                <li class="package-item grey-para">PDF/Doc Submission</li>
-                                <li class="package-item grey-para">Video Submission (if available)</li>
-                                <li class="package-item grey-para">Q & A Submissions*</li>
-                                <li class="package-item grey-para">Image Submissions*</li>
-                                <li class="package-item grey-para">Press Release Promotion</li>
-                                <li class="package-item grey-para">Press Release Submission</li>
-                                <li class="package-item grey-para">Infographic Promotion</li>
-                                <li class="package-item grey-para">Infographic Distribution</li>
-                                <li class="package-item grey-para">PPT Promotion</li>
-                                <li class="package-item grey-para">PPT Submission</li>
-                                <li class="package-item grey-para">Blog Commenting</li>
-                            </ul>
-                            <ul class="package-items-list list-5">
-                                <li class="package-item grey-para" onclick="showList(5)">Social Marketing</li>
-                                <li class="package-item grey-para">Social Bookmarking</li>
-                                <li class="package-item grey-para">Social Sharing</li>
-                                <li class="package-item grey-para">Web 2.0 Profile Creation</li>
-                                <li class="package-item grey-para">Image Promotion & Submission</li>
-                                <li class="package-item grey-para">Video Marketing & Submission</li>
-                            </ul>
-                            <ul class="package-items-list list-6">
-                                <li class="package-item grey-para" onclick="showList(6)">SEO Report</li>
-                                <li class="package-item grey-para">Google Analytics Report, Keyword Ranking Report, Monthly Accomplishment Report</li>
-                            </ul>
-                            <ul class="package-items-list list-7">
-                                <li class="package-item grey-para" onclick="showList(7)">Minimum Contract Duration</li>
-                            </ul>
-                            <a href="contact" class="button button-custom-color-reverse">GET STARTED</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-8">
-                        <div id="packages"class="owl-carousel owl-theme">
-                            <div class="item">
-                                <div class="pricing-card green-price-card">
-                                    <div class="pricing-head">
-                                        <div class="package-name">Standard</div>
-                                        <p class="grey-para"style="font-size:15px;font-weight:100">Upto</p>
-                                        <p class="grey-para"style="font-size:15px">30 Keywords</p>
-                                        <p class="grey-para" style="font-size:15px;font-weight:100">6 months</p>
-                                        <a href="contact" class="button button-custom-color">Enquire Now</a>
-                                    </div>
-                                    
-                                    <div class="package-details">
-                                        <ul class="list-unstyled ul-check primary list-1">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-2">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-3">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-4">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-5">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-6">
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-7">
-                                            <li></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="pricing-card orange-price-card ">
-                                    <div class="pricing-head">
-                                        <div class="package-name">Premium</div>
-                                        <p class="grey-para"style="font-size:15px;font-weight:100">Upto</p>
-                                        <p class="grey-para"style="font-size:15px">50 Keywords</p>
-                                        <p class="grey-para" style="font-size:15px;font-weight:100">6 months</p>
-                                        <a href="contact" class="button button-custom-color">Enquire Now</a>
-                                    </div>
-                                    
-                                    <div class="package-details">
-                                        <ul class="list-unstyled ul-check primary list-1">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-2">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-3">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-4">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-5">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-6">
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-7">
-                                            <li></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="pricing-card purple-price-card">
-                                    <div class="pricing-head">
-                                        <div class="package-name">Business</div>
-                                        <p class="grey-para"style="font-size:15px;font-weight:100">Upto</p>
-                                        <p class="grey-para"style="font-size:15px">80 Keywords</p>
-                                        <p class="grey-para" style="font-size:15px;font-weight:100">6 months</p>
-                                        <a href="contact" class="button button-custom-color">Enquire Now</a>
-                                    </div>
-                                    
-                                    <div class="package-details">
-                                        <ul class="list-unstyled ul-check primary list-1">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-2">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-3">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-4">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-5">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-6">
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-7">
-                                            <li></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="pricing-card green-price-card">
-                                    <div class="pricing-head">
-                                        <div class="package-name">Platinum</div>
-                                        <p class="grey-para"style="font-size:15px;font-weight:100">Upto</p>
-                                        <p class="grey-para"style="font-size:15px">150 Keywords</p>
-                                        <p class="grey-para" style="font-size:15px;font-weight:100">6 months</p>
-                                        <a href="contact" class="button button-custom-color">Enquire Now</a>
-                                    </div>
-                                      
-                                    <div class="package-details">
-                                        <ul class="list-unstyled ul-check primary list-1">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-2">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-3">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-4">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-5">
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-6">
-                                            <li></li>
-                                            <li></li>
-                                        </ul>
-                                        <ul class="list-unstyled ul-check primary list-7">
-                                            <li></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>      
-                        </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </section>
-      -->
 
       <div class="site-section" id="about-section">
         <div class="container">
           <div class="row mb-5">
             <div class="col-md-5 mr-auto mb-5">
               <img
-                src="images/about-us.png"
+                src="images/research.jpeg"
                 alt="Image"
                 class="img-fluid rounded"
               />
@@ -906,7 +451,7 @@
                 </div>
                 <div class="col-12 mb-4">
                   <p class="lead">
-                    Achieve the full potential of your online presence by selecting Web Marlins as your SEO agency in Delhi. We are certain that we can help your company achieve new levels of success in the digital sphere thanks to our knowledge, specialized methods, and dedication to your success. 
+                    Achieve the full potential of your online presence by selecting Web Marlins as your SEO agency in Delhi. We are certain that we can help your company achieve new levels of success in the digital sphere thanks to our knowledge, specialized methods, and dedication to your success.
                   </p>
                 </div>
                 <div class="col-md-12 mb-md-5 mb-0 col-lg-6">
@@ -915,10 +460,9 @@
                       <span class="text-primary icon-phonelink"></span>
                     </div>
                     <div>
-                      <h3 class="text-primary">Web &amp; Mobile Specialties</h3>
+                      <h3 class="text-primary">Expertise that Delivers Results</h3>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Perferendis quis consect.
+                        Utilize our seasoned SEO specialists' expertise to boost your website's ranks and organic traffic. They are equipped with state-of-the-art tools and sector knowledge.
                       </p>
                     </div>
                   </div>
@@ -929,13 +473,17 @@
                       <span class="text-primary icon-extension"></span>
                     </div>
                     <div>
-                      <h3 class="text-primary">Intuitive Thinkers</h3>
+                      <h3 class="text-primary">Tailored Strategies for Maximum Impact</h3>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Perferendis quis.
+                        Discover tailored SEO marketing tactics that support your business objectives, target market, and industry dynamics, assuring maximum effect and quantifiable success.
                       </p>
                     </div>
                   </div>
+                </div>
+                <div class="col-12 mb-4">
+                  <p class="lead">
+                    Join our family of prosperous clients today and experience the revolutionary impact of our digital marketing consulting services for yourself. To begin your journey to SEO perfection, get in touch with us right away.
+                  </p>
                 </div>
               </div>
             </div>

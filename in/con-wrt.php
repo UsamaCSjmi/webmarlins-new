@@ -1,7 +1,7 @@
 
 <?php include_once("assets/header.php")?>
 
-      <div class="site-blocks-cover bg-dark-image-2">
+      <div class="site-blocks-cover bg-dark-image-2 con-wrt-bg">
         <div class="container">
           <div
             class="row align-items-center justify-content-center text-center"
@@ -66,72 +66,72 @@
           </p>
           <div class="row">
             <div class="col-md-6 col-lg-4 ">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-google mr-2 text-primary h3 mb-3 d-block"
                 ></span>
                 <h2 class="text-primary">SEO Optimized Content</h2>
                 <p class="mb-4">
-                  Our Mission is to build long-term relationships with trust, honesty, and integrity, our priority is customer satisfaction and happiness.
+                  In an extremely competitive digital environment, our skilled staff creates SEO-optimized content with pertinent keywords to ensure higher search engine positions, increased organic traffic, and improved online visibility for your brand.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 ">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-windows mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
-                <h2 class="text-primary">Bing Services</h2>
+                <h2 class="text-primary">Business Boosting Copies</h2>
                 <p class="mb-4">
-                  With continuous experiments and the will to try new things to remain ahead in this digital world, we're known for our unique thinking and new ideas. 
+                  Our persuasive copywriting is expertly developed to engage your audience, compel action, and provide quantifiable results. We use intriguing and engaging content to increase conversions, lead generation, and business growth.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 ">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-shopping-cart mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
-                <h2 class="text-primary">Ecommerce Services</h2>
+                <h2 class="text-primary">Lightning Fast Content Delivery</h2>
                 <p class="mb-4">
-                  Our strategy for designing a brand is to highlight its USP and help the brand in targeting the audience and communicate its brand stories in a much better way.  
+                  We are aware of the value of time in today's hurried world. You can meet your deadlines and keep one step ahead of the competition thanks to our efficient workflow and streamlining, guaranteeing timely content delivery without sacrificing quality.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mt-3 mb-4">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-facebook mr-2 text-primary h3 mb-3 d-block"
                 ></span>
-                <h2 class="text-primary">Facebook Services</h2>
-                <p class="mb-4">
-                  Our Mission is to build long-term relationships with trust, honesty, and integrity, our priority is customer satisfaction and happiness.
+                <h2 class="text-primary">Compelling and Engaging Copy</h2>
+                <p class="mb-4"> 
+                  We specialize in writing copy that grabs readers' attention and keeps it throughout. Our content writers use storytelling strategies, persuasion tactics, and creative flair to produce action-inspiring text.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mt-3 mb-4">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-amazon mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
-                <h2 class="text-primary">Amazon Services</h2>
+                <h2 class="text-primary">Thorough Editing and Proofreading</h2>
                 <p class="mb-4">
-                  With continuous experiments and the will to try new things to remain ahead in this digital world, we're known for our unique thinking and new ideas. 
+                  We have a comprehensive editing and proofreading procedure to guarantee that every piece of information reaches the highest standards. Our team reviews and polishes each article, blog post, or webpage to remove errors, increase clarity, and improve readability.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mt-3 mb-4">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-trending_up mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
-                <h2 class="text-primary">Remarketing</h2>
+                <h2 class="text-primary">Quality Assurance and Revisions</h2>
                 <p class="mb-4">
-                  Our strategy for designing a brand is to highlight its USP and help the brand in targeting the audience and communicate its brand stories in a much better way.  
+                  Beyond the first draught, we remain devoted to excellence. We provide complete quality assurance to ensure the finished product meets your expectations. We offer timely and effective changes if necessary to ensure the content matches your vision.
                 </p>
               </div>
             </div>
@@ -147,72 +147,72 @@
           </h2>
           <div class="row">
             <div class="col-md-6 col-lg-4 ">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-format_paint mr-2 text-primary h3 mb-3 d-block"
                 ></span>
                 <h2 class="text-primary">Copywriting</h2>
                 <p class="mb-4">
-                  Our Mission is to build long-term relationships with trust, honesty, and integrity, our priority is customer satisfaction and happiness.
+                  Our copywriting services assist you in attracting attention and generating revenue, from snappy taglines to captivating product descriptions.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 ">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-palette mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
                 <h2 class="text-primary">Social Media Content</h2>
                 <p class="mb-4">
-                  With continuous experiments and the will to try new things to remain ahead in this digital world, we're known for our unique thinking and new ideas. 
+                  We provide fascinating social media content that connects with your audience, increases interaction, and improves the online visibility of your business.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 ">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-laptop2 mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
                 <h2 class="text-primary">SEO Content</h2>
                 <p class="mb-4">
-                  Our strategy for designing a brand is to highlight its USP and help the brand in targeting the audience and communicate its brand stories in a much better way.  
+                  Our authors create optimized material for search engines and draw natural traffic to your website.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mt-3 mb-4">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-format_paint mr-2 text-primary h3 mb-3 d-block"
                 ></span>
-                <h2 class="text-primary">SEO Content</h2>
+                <h2 class="text-primary">Email Newsletter Content</h2>
                 <p class="mb-4">
-                  Our Mission is to build long-term relationships with trust, honesty, and integrity, our priority is customer satisfaction and happiness.
+                  Our authors produce interesting and educational material for your email newsletters, keeping readers informed and interested in your business.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mt-3 mb-4">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-palette mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
                 <h2 class="text-primary">Website Content</h2>
                 <p class="mb-4">
-                  With continuous experiments and the will to try new things to remain ahead in this digital world, we're known for our unique thinking and new ideas. 
+                  We write persuading website copy that effectively conveys your brand's message, draws customers in, and increases conversions. Our website content writing services are top-notch and deliver the best results.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mt-3 mb-4">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-laptop2 mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
                 <h2 class="text-primary">Blog Writing</h2>
                 <p class="mb-4">
-                  Our strategy for designing a brand is to highlight its USP and help the brand in targeting the audience and communicate its brand stories in a much better way.  
+                  Our talented writers produce educational and interesting blog content writing pieces that increase traffic, establish your authority, and promote reader engagement.
                 </p>
               </div>
             </div>
@@ -227,13 +227,8 @@
               <div class="row">
                 <div class="col-12">
                   <div class="text-center pb-1">
-                    <h2 class="site-section-heading">Ignite Your Online Presence</h2>
+                    <h2 class="site-section-heading">With Our Content Writing Services, We Promise!</h2>
                   </div>
-                </div>
-                <div class="col-12 mb-4 text-center">
-                  <p class="lead">
-                    Achieve the full potential of your online presence by selecting Web Marlins as your SEO agency in Delhi. We are certain that we can help your company achieve new levels of success in the digital sphere thanks to our knowledge, specialized methods, and dedication to your success. 
-                  </p>
                 </div>
                 <div class="col-sm-12 col-md-6 mb-md-5 mb-0 col-lg-4">
                   <div class="unit-4 d-block">
@@ -241,10 +236,9 @@
                       <span class="text-primary icon-phonelink"></span>
                     </div>
                     <div>
-                      <h3 class="text-primary">Web &amp; Mobile Specialties</h3>
+                      <h3 class="text-primary">High-Quality Content</h3>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Perferendis quis consect.
+                        We promise top-notch material thoroughly researched, interesting, and specifically created for your target audience.
                       </p>
                     </div>
                   </div>
@@ -255,10 +249,9 @@
                       <span class="text-primary icon-extension"></span>
                     </div>
                     <div>
-                      <h3 class="text-primary">Intuitive Thinkers</h3>
+                      <h3 class="text-primary">Originality and Plagiarism-Free</h3>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Perferendis quis.
+                        We guarantee to offer stuff that is unique, authentic, and free of plagiarism.
                       </p>
                     </div>
                   </div>
@@ -269,10 +262,9 @@
                       <span class="text-primary icon-phonelink"></span>
                     </div>
                     <div>
-                      <h3 class="text-primary">Web &amp; Mobile Specialties</h3>
+                      <h3 class="text-primary">Timely Delivery</h3>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Perferendis quis consect.
+                        We stick to rigorous deadlines and guarantee quick content delivery, letting you continue your marketing strategies.
                       </p>
                     </div>
                   </div>
@@ -283,10 +275,9 @@
                       <span class="text-primary icon-extension"></span>
                     </div>
                     <div>
-                      <h3 class="text-primary">Intuitive Thinkers</h3>
+                      <h3 class="text-primary">Exceptional Customer Service</h3>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Perferendis quis.
+                        We offer committed support, fast communication, and a team effort to suit your needs.
                       </p>
                     </div>
                   </div>
@@ -297,10 +288,9 @@
                       <span class="text-primary icon-phonelink"></span>
                     </div>
                     <div>
-                      <h3 class="text-primary">Web &amp; Mobile Specialties</h3>
+                      <h3 class="text-primary">Competitive Pricing</h3>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Perferendis quis consect.
+                        We ensure you get the best value for your money without sacrificing quality by offering fair and upfront pricing for our affordable content-writing services in Delhi.
                       </p>
                     </div>
                   </div>
@@ -311,10 +301,9 @@
                       <span class="text-primary icon-extension"></span>
                     </div>
                     <div>
-                      <h3 class="text-primary">Intuitive Thinkers</h3>
+                      <h3 class="text-primary">Targeted Content</h3>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Perferendis quis.
+                        We commit to producing content that precisely addresses your target audience's requirements, interests, and pain areas.
                       </p>
                     </div>
                   </div>

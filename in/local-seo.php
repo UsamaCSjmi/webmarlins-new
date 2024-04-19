@@ -1,7 +1,7 @@
 
 <?php include_once("assets/header.php")?>
 
-      <div class="site-blocks-cover bg-dark-image-2">
+      <div class="site-blocks-cover bg-dark-image-2 local-seo-bg">
         <div class="container">
           <div
             class="row align-items-center justify-content-center text-center"
@@ -46,7 +46,7 @@
               </p>
             </div>
             <div class="col-md-6">
-              <img class="img-fluid" src="images/img_1.jpg"/>
+              <img class="img-fluid" src="images/local-seo-1.jpg"/>
             </div>
           </div>
         </div>
@@ -233,7 +233,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-6">
-              <img class="img-fluid" src="images/img_13.jpg"/>
+              <img class="img-fluid" src="images/local-seo-2.jpg"/>
             </div>
             <div class="col-md-6 text-left my-auto">
               <h2 class="h2">How Web Marlins specialize In Local SEO:</h2>
