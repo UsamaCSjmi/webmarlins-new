@@ -178,7 +178,6 @@ jQuery(document).ready(function($) {
 		});
 		$('.slide-five-item').owlCarousel({
 			center: false,
-			items: 5,
 			loop: true,
 			stagePadding: 0,
 			margin: 50,
@@ -186,7 +185,24 @@ jQuery(document).ready(function($) {
 			autoplay: true,
 			pauseOnHover: false,
 			nav: false,
-			navText: ['<span class="icon-keyboard_arrow_left">', '<span class="icon-keyboard_arrow_right">']
+			navText: ['<span class="icon-keyboard_arrow_left">', '<span class="icon-keyboard_arrow_right">'],
+			responsive:{
+				1200:{
+					items:5
+				},
+				1000:{
+					items:4
+				},
+				700:{
+					items:3
+				},
+				500:{
+					items:2
+				},
+				200:{
+					items:1
+				}
+			}
 		});
 		$('.slide-four-item').owlCarousel({
 			center: false,
