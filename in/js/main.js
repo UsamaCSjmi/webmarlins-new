@@ -194,14 +194,11 @@ jQuery(document).ready(function($) {
 				1000:{
 					items:4
 				},
-				700:{
+				500:{
 					items:3
 				},
-				500:{
+				0:{
 					items:2
-				},
-				200:{
-					items:1
 				}
 			}
 		});

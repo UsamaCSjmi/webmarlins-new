@@ -32,34 +32,37 @@
         </div>
       </div>
       <div class="row owl-carousel slide-five-item">
-        <div class="client-logo" data-aos="fade-in" data-aos-delay="0">
+        <div class="client-logo">
+          <img src="images/vicolo.png" style="width:47% !important" alt="Image" />
+        </div>
+        <div class="client-logo">
           <img src="images/clients-14.png" alt="Image" />
         </div>
-        <div class="client-logo" data-aos="fade-in" data-aos-delay="100">
+        <div class="client-logo">
           <img src="images/clients-10.png" alt="Image" />
         </div>
-        <div class="client-logo" data-aos="fade-in" data-aos-delay="200">
+        <div class="client-logo">
           <img src="images/clients-11.png" alt="Image"/>
         </div>
-        <div class="client-logo" data-aos="fade-in" data-aos-delay="300">
+        <div class="client-logo">
           <img src="images/clients-12.svg" alt="Image" />
         </div>
-        <div class="client-logo" data-aos="fade-in" data-aos-delay="400">
+        <div class="client-logo">
           <img src="images/clients-13.png" alt="Image" />
         </div>
-        <div class="client-logo" data-aos="fade-in" data-aos-delay="400">
+        <div class="client-logo">
           <img src="images/clients-15.png" alt="Image" />
         </div>
-        <div class="client-logo" data-aos="fade-in" data-aos-delay="400">
+        <div class="client-logo">
           <img src="images/clients-16.png" alt="Image" />
         </div>
-        <div class="client-logo" data-aos="fade-in" data-aos-delay="400">
+        <div class="client-logo">
           <img src="images/clients-17.png" alt="Image" />
         </div>
-        <div class="client-logo" data-aos="fade-in" data-aos-delay="400">
+        <div class="client-logo">
           <img src="images/clients-18.png" alt="Image" />
         </div>
-        <div class="client-logo" data-aos="fade-in" data-aos-delay="400">
+        <div class="client-logo">
           <img src="images/clients-19.png" alt="Image" />
         </div>
       </div>

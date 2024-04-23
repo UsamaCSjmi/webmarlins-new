@@ -178,6 +178,7 @@ jQuery(document).ready(function($) {
 		});
 		$('.slide-five-item').owlCarousel({
 			center: false,
+			// items: 5,
 			loop: true,
 			stagePadding: 0,
 			margin: 50,
@@ -193,14 +194,11 @@ jQuery(document).ready(function($) {
 				1000:{
 					items:4
 				},
-				700:{
+				500:{
 					items:3
 				},
-				500:{
+				0:{
 					items:2
-				},
-				200:{
-					items:1
 				}
 			}
 		});
