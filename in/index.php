@@ -17,13 +17,13 @@ elseif($router == '/local-seo-services'){
 elseif($router == '/ppc-services'){
     include_once('ppc.php');
 }
-elseif($router == '/web-designing-services'){
+elseif($router == '/web-design-services'){
     include_once('web-des.php');
 }
 elseif($router == '/web-development-services'){
     include_once('web-dev.php');
 }
-elseif($router == '/social-media-marketing-services'){
+elseif($router == '/social-media-services'){
     include_once('smm.php');
 }
 elseif($router == '/email-marketing-services'){
@@ -40,6 +40,9 @@ elseif($router == '/contact'){
 }
 elseif($router == '/privacy-policy'){
     include_once('privacy.php');
+}
+elseif($router == '/sitemap'){
+    include_once('sitemap.php');
 }
 elseif($router == '/terms-and-conditions'){
     include_once('tnc.php');

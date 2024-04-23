@@ -37,9 +37,9 @@
                     <li><a href="<?php echo SITE_PATH?>/seo-services" class="text-light">SEO</a></li>
                     <li><a href="<?php echo SITE_PATH?>/ppc-services" class="text-light">PPC</a></li>
                     <li>
-                      <a href="<?php echo SITE_PATH?>/social-media-marketing-services" class="text-light">Social Media Marketing</a>
+                      <a href="<?php echo SITE_PATH?>/social-media-services" class="text-light">Social Media Marketing</a>
                     </li>
-                    <li><a href="<?php echo SITE_PATH?>/web-designing-services" class="text-light">Web Designing</a></li>
+                    <li><a href="<?php echo SITE_PATH?>/web-design-services" class="text-light">Web Designing</a></li>
                     <li><a href="<?php echo SITE_PATH?>/content-writing-services" class="text-light">Content Writing</a></li>
                     <li>
                       <a href="<?php echo SITE_PATH?>/web-development-services" class="text-light">Website Development</a>
@@ -60,7 +60,7 @@
                     </li>
                     <li><a href="<?php echo SITE_PATH?>/about" class="text-light">About Us</a></li>
                     <li><a href="<?php echo SITE_PATH?>/" class="text-light">Home</a></li>
-                    <li><a href="#" class="text-light">Sitemap</a></li>
+                    <li><a href="<?php echo SITE_PATH?>/sitemap" class="text-light">Sitemap</a></li>
                   </ul>
                 </div>
               </div>

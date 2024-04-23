@@ -92,8 +92,8 @@
                     <ul class="dropdown">
                       <li><a href="<?php echo SITE_PATH;?>/seo-services">SEO</a></li>
                       <li><a href="<?php echo SITE_PATH;?>/ppc-services">PPC</a></li>
-                      <li><a href="<?php echo SITE_PATH;?>/web-designing-services">Web Designing</a></li>
-                      <li><a href="<?php echo SITE_PATH;?>/social-media-marketing-services">Social Media Marketing</a></li>
+                      <li><a href="<?php echo SITE_PATH;?>/web-design-services">Web Designing</a></li>
+                      <li><a href="<?php echo SITE_PATH;?>/social-media-services">Social Media Marketing</a></li>
                       <li><a href="<?php echo SITE_PATH;?>/content-writing-services">Content Writing</a></li>
                       <li><a href="<?php echo SITE_PATH;?>/web-development-services">Website Development</a></li>
                       <li><a href="<?php echo SITE_PATH;?>/email-marketing-services">Email Marketing</a></li>
