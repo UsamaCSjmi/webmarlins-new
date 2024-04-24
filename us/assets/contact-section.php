@@ -5,7 +5,7 @@
         <div class="col-md-6 text-left my-auto">
           <h2 class="h1 text-light">Thats enough about us</h2>
           <p class="text-light">
-            We are more than an Online Marketing Agency, Web Marlins is your online success partner. As a digital marketing company in Delhi, we can help you achieve your business goals, so contact us now. For exceptional customer results, we believe in strategic thinking, innovative innovation, and flawless execution. You may construct a fantastic brand, increase your online presence, or grow your business with our expertise. Create magic with us today.
+            We are more than an Online Marketing Agency, Web Marlins is your online success partner. As a digital marketing company in Illinois, we can help you achieve your business goals, so contact us now. For exceptional customer results, we believe in strategic thinking, innovative innovation, and flawless execution. You may construct a fantastic brand, increase your online presence, or grow your business with our expertise. Create magic with us today.
           </p>
         </div>
         <div class="col-md-6">
