@@ -11,7 +11,7 @@
                 Contact Us
               </h1>
               <p class="text-light">
-                We're thrilled to communicate with you! Our staff at Web Marlins is available to listen whether you have a pressing query, require a customized digital marketing solution, or want to explore new opportunities for your company. Reach out right now, and let's start down the path to digital success.
+              We're thrilled to communicate with you! Our staff at Web Marlins is available to listen whether you have a pressing query, require a customized digital marketing solution, or want to explore new opportunities for your company. Reach out right now, and let's start down the path to digital success.
               </p>
             </div>
           </div>
@@ -54,7 +54,9 @@
 
             <h2 class="text-primary">Address</h2>
             <p class="mb-4">
-            Paryavaran Complex, B - 77/3, <br>IGNOU Main Rd, Sainik Farm, <br>New Delhi, Delhi 110030  
+            1501 Woodfield Rd Ste 103E Schaumburg,
+            <br>
+            IL 60173, USA  
             </p>
           </div>
         </div>

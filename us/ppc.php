@@ -57,20 +57,30 @@
           <div class="row align-items-center justify-content-around">
             <div class="col-lg-7">
               <h2 class="text-primary">
-              Boost Sales with ROI-Focused PPC Agency in Delhi
+              Unlock Unlimited Growth Potential: Partner with Web Marlins, Your ROI-Driven PPC Authority in Illinois!
               </h2>
               <div class="row mt-3">
                 <div class="col-lg-12">
                   <p class="mb-4">
-                    You may achieve unequaled growth and significantly boost your revenue generation with Web Marlins, a leading ROI-focused PPC company in Delhi. Our cutting-edge strategies are designed to maximize conversions and raise income, ensuring your business realizes exceptional returns on investment. Our seasoned PPC experts use cutting-edge tools and data-driven analytics to optimize your advertising. We outperform the opposition and take command of SERPs, setting up your business for success. Our offerings include everything from thorough keyword research to ad optimization strategies.
+                    Are you prepared to take your company to new heights? Imagine increasing sales and maximizing return on investment (ROI) by utilizing the enormous power of pay-per-click (PPC) marketing services. Welcome to the top PPC company in Illinois, Web Marlins, your dependable partner in Illinois, where we design creative campaigns that produce measurable outcomes rather than merely running advertisements.
                     <br><br>
-                    Our sophisticated approach, which includes A/B testing and remarketing, maximizes conversions and expands revenue sources. To make wise business decisions and utilize your marketing budget, rely on our thorough reports and transparent insights.
+                    Elevate Your Sales Game: At Web Marlins, mediocrity is not tolerated. We're here to raise your profits, improve sales, and ensure every click generates profitable conversions.
                     <br><br>
-                    Join Web Marlins, a PPC service provider, and experience a spike in sales, rapid company expansion, and an unrivaled competitive advantage. Unleash the full potential of your company and build a strong online presence. Experience the transforming power of strategic digital marketing by selecting Web Marlins as your ROI-focused PPC company in Delhi.
+                    ROI-Centric Approach: Results are significant, as we are aware. Our PPC ads are laser-focused as a result, and they are designed to maximize your return on investment. Watch as your advertising money leads to measurable, genuine business growth.
+                    <br><br>
+                    Precision Targeting: Ads that include spraying and praying are no more. Our experts carefully pinpoint and interact with your ideal audience to ensure the correct people receive your message appropriately, increasing engagement and conversion rates.
+                    <br><br>
+                    Data-Powered Insights: Instead of speculating, we analyze, optimize, and fine-tune our decisions using real-time data. By providing information about the campaigns' efficacy, our open reporting gives you the advantage of making informed decisions.
+                    <br><br>
+                    Trusted Partnership: You select the best PPC agency in Illinois, Web Marlins, when you want a committed partner who cares about your success. We don't just act as an agency but as an extension of your team, working to accomplish your objectives.
+                    <br><br>
+                    Are you prepared to alter the course of growth for your company? Join forces with Web Marlins, where we transform potential into prosperity, clicks into bucks, and ideas into action. Contact us immediately to see how our ROI-driven PPC service providers design campaigns for American business owners like you to help you dominate your market.
+                    <br><br>
+                    Web Marlins - Your ROI, Our Mission.
                   </p>
                 </div>
               </div>
-              <a href="#" class="btn btn-primary px-5 mb-2">Discover More</a>
+              <a href="<?php echo SITE_PATH?>/contact" class="btn btn-primary px-5 mb-2">Discover More</a>
             </div>
 
             <div class="col-lg-5">
@@ -83,79 +93,79 @@
       <section class="site-section">
         <div class="container">
           <h2 class="text-primary text-center mb-3">
-          Garner Quality Traffic With Our PPC Marketing Services
+          Ignite Your Clickvolution Today – Unleash PPC Magic!
           </h2>
           <p class="text-primary text-center mt-3">
-            Web Marlins offers innovative PPC marketing services that drive high-quality traffic to your website. Our strategic approach, advanced targeting, and data-driven optimizations ensure maximum visibility and conversions.
+          Web Marlins offers innovative PPC marketing services that drive high-quality traffic to your website. Our strategic approach, advanced targeting, and data-driven optimizations ensure maximum visibility and conversions.
           </p>
           <div class="row">
             <div class="col-md-6 col-lg-4 ">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-google mr-2 text-primary h3 mb-3 d-block"
                 ></span>
-                <h2 class="text-primary">Google Services</h2>
+                <h2 class="text-primary">Google Advertising</h2>
                 <p class="mb-4">
-                  Our Mission is to build long-term relationships with trust, honesty, and integrity, our priority is customer satisfaction and happiness.
+                By using Google Advertising, aim high! With carefully positioned ads enthralling your audience, dominate search results and increase your online presence. Utilize the strength of intent-driven searches to drive qualified visitors right to your website.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 ">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-windows mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
-                <h2 class="text-primary">Bing Services</h2>
+                <h2 class="text-primary">Bing Advertising</h2>
                 <p class="mb-4">
-                  With continuous experiments and the will to try new things to remain ahead in this digital world, we're known for our unique thinking and new ideas. 
+                Be aware of the Bingverse! Let your company stand out on the Microsoft platform and reach a distinctive audience. Our Bing Advertising techniques open doors to previously unreachable markets and make sure that a broad range of potential clients understand your message.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 ">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-shopping-cart mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
-                <h2 class="text-primary">Ecommerce Services</h2>
+                <h2 class="text-primary">E-Commerce Ads</h2>
                 <p class="mb-4">
-                  Our strategy for designing a brand is to highlight its USP and help the brand in targeting the audience and communicate its brand stories in a much better way.  
+                E-Commerce Ads can convert surfers into customers. Our customized solutions maximize your visibility, generating high-quality traffic that converts into repeat consumers, whether introducing a new product or expanding the reach of existing online businesses.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mt-3 mb-4">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-facebook mr-2 text-primary h3 mb-3 d-block"
                 ></span>
-                <h2 class="text-primary">Facebook Services</h2>
+                <h2 class="text-primary">Facebook Advertising</h2>
                 <p class="mb-4">
-                  Our Mission is to build long-term relationships with trust, honesty, and integrity, our priority is customer satisfaction and happiness.
+                Utilise Facebook advertising to unleash the power of social interaction. Wherever your target demographic spends time online, our well-produced campaigns will catch their attention. Start discussions, get clicks, and foster brand loyalty on the world's biggest social network.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mt-3 mb-4">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-amazon mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
-                <h2 class="text-primary">Amazon Services</h2>
+                <h2 class="text-primary">Amazon Advertising</h2>
                 <p class="mb-4">
-                  With continuous experiments and the will to try new things to remain ahead in this digital world, we're known for our unique thinking and new ideas. 
+                Set sail in the waters of the Amazon! Grab the interest of customers ready to purchase on the world's biggest e-commerce platform. Our Amazon advertising techniques improve the exposure of your products, bringing qualified visitors to your listings and boosting your chances of making sales.
                 </p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mt-3 mb-4">
-              <div class="box-with-humber bg-white p-5">
+              <div class="box-with-humber bg-white p-5 h-100">
                 <span
                   class="icon icon-trending_up mr-2 text-primary h3 mb-3 d-block"
                 ></span>
 
                 <h2 class="text-primary">Remarketing</h2>
                 <p class="mb-4">
-                  Our strategy for designing a brand is to highlight its USP and help the brand in targeting the audience and communicate its brand stories in a much better way.  
+                Rekindle the flame! You can re-engage interested parties by using remarketing to direct them to your online commerce. Increased clicks and conversions result from our planned Remarketing efforts, which keep your brand at the top of consumers minds.
                 </p>
               </div>
             </div>
@@ -168,7 +178,7 @@
           <div class="row justify-content-center">
             <div class="col-md-8 text-center">
               <h2 class="site-section-heading text-center">PPC Services at Web Marlins</h2>
-              <p class="text-primary text-center">Fuel your digital marketing success with Web Marlins' exceptional PPC services in Delhi. As a leading provider of result-oriented digital marketing solutions, we specialize in creating and managing strategic pay-per-click campaigns that deliver outstanding ROI.</p>
+              <p class="text-primary text-center">Our portfolio of specialized PPC services in Illinois at Web Marlins is created to support your company's expansion, retention, and success. To start a dynamic PPC marketing adventure, get in touch right away!</p>
             </div>
           </div>
         </div>
@@ -182,48 +192,44 @@
                       <div>
                         <h3 class="d-flex align-items-center">
                           <span class="icon icon-beach_access mr-2"></span
-                          ><span>A Holistic Approach</span>
+                          ><span>Search Advertising</span>
                         </h3>
                         <p>
-                          Our Experts develop enduring, beautiful, and consistent brand identities. We provide you with the best visual identity. Designing attractive, versatile logos that represent your brand's values. Selecting fonts that complement your brand's tone and boost readability everywhere.
+                        Ensure that your adverts dominate the search engine results pages by appearing at the exact time when potential clients are browsing for your goods or services. Be the answer they have been looking for.
                         </p>
-                        <p><a href="#">Read More</a></p>
                       </div>
                     </div>
                     <div class="col-lg-6">
                       <div>
                         <h3 class="d-flex align-items-center">
                           <span class="icon icon-build mr-2"></span
-                          ><span>Unleashing Creativity</span>
+                          ><span>Display Advertising</span>
                         </h3>
                         <p>
-                          First impressions play a major role everywhere be it meeting a person or awaring your audience about your brand. Our experts' top most priority while moving forward with your brand would be to have an impressive website.  
+                        You can capture your audience's attention with aesthetically attractive display ads highlighting your company's personality. We produce advertisements that demand attention, from arresting banners to engaging graphics.
                         </p>
-                        <p><a href="#">Read More</a></p>
                       </div>
                     </div>
                     <div class="col-lg-6">
                       <div>
                         <h3 class="d-flex align-items-center">
                           <span class="icon icon-format_paint mr-2"></span
-                          ><span>Proven Track Record</span>
+                          ><span>Social Media Advertising</span>
                         </h3>
                         <p>
-                          Web Marlins helps clients develop plans to achieve their business targets. We make a complete digital marketing strategy that leverages the right channels and methods to reach and engage your target audience.
+                        We utilize social media platforms like Facebook, Instagram, Twitter, and LinkedIn to link your business with its most ardent supporters. Your message received a boost.
                         </p>
-                        <p><a href="#">Read More</a></p>
                       </div>
                     </div>
                     <div class="col-lg-6">
                       <div>
                         <h3 class="d-flex align-items-center">
                           <span class="icon icon-question_answer mr-2"></span
-                          ><span>Tailored Solutions</span>
+                          ><span>Conversion Rate Optimization (CRO)</span>
                         </h3>
                         <p>
-                          Our company offers the best website design and development services, with a focus on creating user-friendly and cost-effective websites. We provide solutions that cover every aspect of your business, which enables it to develop efficiently.
+                        Improve your conversion rates. Our CRO-driven PPC campaigns go above and beyond clicks, optimizing landing pages and user experiences to ensure each click results in a worthwhile action, increasing your ROI.
                         </p>
-                        <p><a href="#">Read More</a></p>
                       </div>
                     </div>
                   </div>
@@ -238,9 +244,9 @@
         <div class="container">
           <div class="row justify-content-center mb-5">
             <div class="col-lg-12 text-center" data-aos="fade-up">
-              <h3 class="text-primary">Partner with a Certified PPC Agency</h3>
+              <h3 class="text-primary">Drive Results with a Certified PPC Agency Partnership</h3>
               <p class="text-primary">
-                Partner with Web Marlins, a certified and affordable PPC agency in Delhi, to unlock improved brand visibility, increase quality traffic, and maximize ROI. Experience reduced CPC through our strategic optimizations, benefit from transparency in campaign performance, and captivate your audience with unique and compelling advertising copy.
+              Are you prepared to take your company to new heights? At Web Marlins, the most affordable PPC agency, we give you access to the potency of Pay-Per-Click (PPC) advertising, the top-secret tool prosperous American companies use to rule their markets. Our state-of-the-art PPC management services in Illinois are designed to offer outstanding results for companies of all sizes, giving you an advantage over the competition and putting you in front of your target market.
               </p>
             </div>
 
@@ -255,7 +261,7 @@
                   <span class="text-primary icon-laptop2"></span>
                 </div>
                 <div>
-                  <h3>Reduced CPC</h3>
+                  <h3>Unleash Your Potential</h3>
                 </div>
               </div>
               <div class="unit-4">
@@ -263,9 +269,9 @@
                   <span class="icon-laptop2"></span>
                 </div>
                 <div>
-                  <h3>Reduced CPC</h3>
+                  <h3>Unleash Your Potential</h3>
                   <p>
-                    We improve your search engine rankings and provide relevant visitors to your website with keyword research and on-page seo optimization.
+                  Make your company's aspirations a reality. You're not just running advertisements with Web Marlins; you're sparking a dynamic PPC marketing plan that will take your business to new heights of success.
                   </p>
                 </div>
               </div>
@@ -280,7 +286,7 @@
                   <span class="text-primary icon-shopping_cart"></span>
                 </div>
                 <div>
-                  <h3>Maximized ROI</h3>
+                  <h3>Strategic Precision</h3>
                 </div>
               </div>
               <div class="unit-4">
@@ -288,11 +294,10 @@
                   <span class="icon-shopping_cart"></span>
                 </div>
                 <div>
-                  <h3>Maximized ROI</h3>
+                  <h3>Strategic Precision</h3>
                   <p>
-                    Get rapid results with business-specific PPC advertising, each click counts toward you.
+                  Our team of seasoned digital marketers methodically creates PPC ads that are successful. We examine consumer behavior, market trends, and competitor insights to place your brand where it counts the most strategically.
                   </p>
-                  <p><a href="#">Learn More</a></p>
                 </div>
               </div>
             </div>
@@ -306,7 +311,7 @@
                   <span class="text-primary icon-question_answer"></span>
                 </div>
                 <div>
-                  <h3>Improved Brand Visibility</h3>
+                  <h3>Laser-Focused Targeting</h3>
                 </div>
               </div>
               <div class="unit-4">
@@ -314,9 +319,9 @@
                   <span class="icon-question_answer"></span>
                 </div>
                 <div>
-                  <h3>Improved Brand Visibility</h3>
+                  <h3>Laser-Focused Targeting</h3>
                   <p>
-                    By creating content and managing communities, we help you use social media to build meaningful relationships and convert them into leads.
+                  Goodbye to squandered advertising dollars. Every click is strategically targeted by Web Marlins based on the demographics of your preferred clientele. Get better ROI than ever before and higher conversion rates.
                   </p>
                 </div>
               </div>
@@ -331,7 +336,7 @@
                   <span class="text-primary icon-format_paint"></span>
                 </div>
                 <div>
-                  <h3>Performance</h3>
+                  <h3>Real-Time Optimization</h3>
                 </div>
               </div>
               <div class="unit-4">
@@ -339,11 +344,10 @@
                   <span class="icon-format_paint"></span>
                 </div>
                 <div>
-                  <h3>Performance</h3>
+                  <h3>Real-Time Optimization</h3>
                   <p>
-                    Our designers build attractive, user-friendly websites that engage your audience.
+                  We don't just do things: "Set it and forget it." Our specialists monitor your campaigns around the clock, tweaking bids, fine-tuning keywords, and perfecting ad text to boost success. Our obsession is with your achievement.
                   </p>
-                  <p><a href="#">Learn More</a></p>
                 </div>
               </div>
             </div>

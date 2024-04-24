@@ -73,24 +73,23 @@
     <div class="container">
       <div class="row align-items-center justify-content-around">
         <div class="col-lg-7">
-          <h3 class="text-primary">What we do</h3>
+          <h3 class="text-primary h6">Web Marlins: Navigating Your Digital Success, Together.</h3>
           <h2 class="text-primary">
-            Web Marlins: Boosting Your Online Presence!!
+            Why Choose Web Marlins, a Digital Marketing Agency in Illinois?
           </h2>
           <div class="row mt-3">
             <div class="col-lg-6">
               <p class="mb-4">
-                We are a trusted digital marketing agency in Delhi. We provide top-tier digital marketing consulting services that are best for our clients. We understand the internet world and use our skills to grow your business. Just explore our numerous digital marketing services to enhance your internet visibility and success.
-
+              With Web Marlins, the top digital marketing agency in Illinois, you can unleash your company's full potential. We stand out because of our unwavering dedication to achieving achievement. We create strategic digital marketing solutions in Illinois that are suited to your particular demands using a skilled team of professionals. We can help you with everything from increasing profitability to enhancing your brand presence.
               </p>
             </div>
             <div class="col-lg-6">
               <p class="mb-4">
-                We have skilled and creative site designers and developers, SEO experts. We build anything from HTML and WordPress to bespoke online selling and inventory management systems with the best monitoring. Many global brands have used our SEO, website design, and digital marketing services in delhi. Responsive and innovative websites are our specialty. We are well-known in Delhi for our digital marketing services.  
+              Use data-driven decision-making to your advantage. Our state-of-the-art analytics produce valuable insights that maximize your ROI. Adopt a comprehensive strategy that combines SEO, PPC, effective content development, and social media know-how. Audiences will identify with your brand's story and become more engaged.  
               </p>
             </div>
           </div>
-          <a href="#" class="btn btn-primary px-5 mb-2">Get started</a>
+          <a href="<?php echo SITE_PATH?>/contact" class="btn btn-primary px-5 mb-2">Get started</a>
         </div>
 
         <div class="col-lg-5">
@@ -342,9 +341,9 @@
             <div>
               <h3>SEO</h3>
               <p>
-                We improve your search engine rankings and provide relevant visitors to your website with keyword research and on-page seo optimization.
+              Our online marketing company provides SEO know-how that can help you increase your internet presence. We employ clever techniques that make it simple for people to find you online. This translates into more customers, attention, and revenue.
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/seo-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -368,9 +367,9 @@
             <div>
               <h3>PPC Management</h3>
               <p>
-                Get rapid results with business-specific PPC advertising, each click counts toward you.
+              Utilize our PPC magic to achieve rapid results. We design advertisements when people conduct online searches, instantly bringing you possible clients. It's comparable to creating new business opportunities out of clicks.
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/ppc-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -394,9 +393,9 @@
             <div>
               <h3>Social Media Marketing</h3>
               <p>
-                By creating content and managing communities, we help you use social media to build meaningful relationships and convert them into leads.
+              Social networking can help you make friends and develop your brand. We publish interesting information about your company that people love to view. It's similar to amassing a sizable following of promoters.
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/social-media-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -420,9 +419,9 @@
             <div>
               <h3>Web Designing</h3>
               <p>
-                Our designers build attractive, user-friendly websites that engage your audience.
+              We create amazing websites that are incredibly simple to use. People who come will remain longer and desire to return. A superb website attracts more satisfied users.
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/web-design-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -446,9 +445,9 @@
             <div>
               <h3>Email Marketing</h3>
               <p>
-                To create leads, promote items, or develop customer loyalty, we create targeted and effective email campaigns.
+              Updates and exclusive offers are sent to people's emails directly. It's similar to sending folks heartfelt letters that pique their curiosity about what you offer.
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/email-marketing-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -472,9 +471,9 @@
             <div>
               <h3>Content Writing</h3>
               <p>
-                Our expert writers generate engaging, SEO-friendly content that engages your readers.
+              We deliver your narrative in a lively and engaging manner. People like and trust you and your company because of the words and images we use. It's similar to meeting new pals who want to hang out.
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/content-writing-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -498,9 +497,9 @@
             <div>
               <h3>Web Development</h3>
               <p>
-                We provide cutting-edge web development services to strengthen your internet presence. We build scalable, secure, and beautiful websites from front-end design to back-end functionality. 
+              We are the website developers. We design websites that are functional on both computers and mobile devices. Your website will operate smoothly and dependably at all times.  
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/web-development-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -526,7 +525,7 @@
               <p>
                 Win this local market with our local SEO services. Local search results, maps, and directories show your company prominently when we improve your online presence. 
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/local-seo-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -553,7 +552,7 @@
             </div>
             <div class="col-12 mb-4">
               <p class="lead">
-                Since 2017, as a digital marketing company in Delhi, Web Marlins helps you to succeed in the digital world and meet your company goals. Our expertise, skills, and desire to help you in your startup or big company flourish online. 
+              A digital marketing agency in Illinois founded by a team of visionary marketers, Web Marlins, emerged from the deep waters of the digital landscape. Our journey began with the straightforward yet potent conviction that every company, no matter how little, deserves the opportunity to succeed online. We have developed our abilities through time, reacted to changes in the sector, and assisted countless enterprises on their triumphant online journeys. 
               </p>
               <!-- <ol>
                 <li>

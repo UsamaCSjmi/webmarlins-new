@@ -14,20 +14,20 @@
                   </a>
                   <h2 class="footer-heading mb-4 text-light">About Us</h2>
                   <p class="text-light">
-                    As a digital marketing company in Delhi, we will help you to succeed in the digital world and meet your company goals.
+                  A digital marketing agency in Illinois founded by a team of visionary marketers, Web Marlins, emerged from the deep waters of the digital landscape.
                   </p>
                   <a href="<?php echo SITE_PATH?>/about" class="mb-3 text-light">Read more ...</a>
                   <br />
                   <br />
-                  <a href="#" class="pl-0 pr-3 text-light"
+                  <a href="https://www.facebook.com/webmarlins" class="pl-0 pr-3 text-light"
                     ><span class="icon-facebook"></span
                   ></a>
-                  <a href="#" class="pl-3 pr-3 text-light"
+                  <a href="https://twitter.com/WebMarlins" class="pl-3 pr-3 text-light"
                     ><svg xmlns="http://www.w3.org/2000/svg" fill="#fff" width="16px" viewBox="0 0 512 512"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></a>
-                  <a href="#" class="pl-3 pr-3 text-light"
+                  <a href="https://www.instagram.com/webmarlins" class="pl-3 pr-3 text-light"
                     ><span class="icon-instagram"></span
                   ></a>
-                  <a href="#" class="pl-3 pr-3 text-light"
+                  <a href="https://www.linkedin.com/company/webmarlins/" class="pl-3 pr-3 text-light"
                     ><span class="icon-linkedin"></span
                   ></a>
                 </div>
@@ -68,9 +68,9 @@
             <div class="col-md-3">
               <h2 class="footer-heading mb-4 text-light">Reach Us</h2>
               <p class="text-light">
-                Paryavaran Complex, B - 77/3,<br />
-                IGNOU Main Rd, Sainik Farm,<br />
-                New Delhi, Delhi 110030
+              1501 Woodfield Rd Ste 103E Schaumburg,
+              <br>
+              IL 60173, USA
               </p>
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.848391071365!2d77.20223637479664!3d28.514208775729482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce179ef7bc3dd%3A0xddded4208b0de778!2sWeb%20Marlins!5e0!3m2!1sen!2sin!4v1688822897608!5m2!1sen!2sin"
@@ -82,15 +82,6 @@
               ></iframe>
             </div>
           </div>
-          <!-- <div class="row pt-5 mt-5 text-center">
-            <div class="col-md-12">
-              <div class="border-top pt-5">
-                <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script>. All Rights Reserved. &mdash; Designed with love by Distributed By <a href="#">Web Marlins</a>
-                </p>
-              </div>
-            </div>
-
-          </div> -->
         </div>
       </footer>
     </div>
