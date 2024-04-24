@@ -34,6 +34,7 @@ $description = array(
     "contact" => "Ready to take your digital presence to the next level? Get in touch with us today! Contact our team in Illinois to discuss your goals and explore how we can help you achieve success online.",
     "privacy-policy" => "Discover how Webmarlins Pvt. Ltd., based in Illinois, safeguards your privacy. Our Privacy Policy details how we collect, use, and protect your personal information.",
     "terms-and-conditions" => "Explore the Terms and Conditions governing the use of Webmarlins Pvt. Ltd.'s services in Illinois. Learn about your rights and responsibilities when interacting with our platform.",
+    "local-seo-services" => "Enhance your local business visibility with Web Marlins, a top-notch local SEO agency in Illinois. Drive growth with tailored local SEO services.",
 );
 $title = array(
     "home" => "Digital Marketing Agency in Illinois | Online Marketing Services - Web Marlins",
@@ -49,5 +50,6 @@ $title = array(
     "contact" => "Connect to Us | Contact Us - Web Marlins",
     "privacy-policy" => "Privacy Policy | Web Marlins: Your Privacy Our Priority",
     "terms-and-conditions" => "Terms and Conditions | Web Marlins: Your Guide to Using Our Services",
+    "local-seo-services" => "Local SEO Services | Local SEO Agency in Illinois - Web Marlins",
 );
 ?>
