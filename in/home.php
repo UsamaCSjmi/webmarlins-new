@@ -90,7 +90,7 @@
               </p>
             </div>
           </div>
-          <a href="#" class="btn btn-primary px-5 mb-2">Get started</a>
+          <a href="<?php echo SITE_PATH?>/contact" class="btn btn-primary px-5 mb-2">Get started</a>
         </div>
 
         <div class="col-lg-5">
@@ -189,7 +189,7 @@
                     <p>
                       Our Experts develop enduring, beautiful, and consistent brand identities. We provide you with the best visual identity. Designing attractive, versatile logos that represent your brand's values. Selecting fonts that complement your brand's tone and boost readability everywhere.
                     </p>
-                    <p><a href="#">Read More</a></p>
+                    <p><a href="<?php echo SITE_PATH?>/about">Read More</a></p>
                   </div>
                 </div>
                 <div class="col-lg-6">
@@ -201,7 +201,7 @@
                     <p>
                       First impressions play a major role everywhere be it meeting a person or awaring your audience about your brand. Our experts' top most priority while moving forward with your brand would be to have an impressive website.  
                     </p>
-                    <p><a href="#">Read More</a></p>
+                    <p><a href="<?php echo SITE_PATH?>/about">Read More</a></p>
                   </div>
                 </div>
                 <div class="col-lg-6">
@@ -213,7 +213,7 @@
                     <p>
                       Web Marlins helps clients develop plans to achieve their business targets. We make a complete digital marketing strategy that leverages the right channels and methods to reach and engage your target audience.
                     </p>
-                    <p><a href="#">Read More</a></p>
+                    <p><a href="<?php echo SITE_PATH?>/about">Read More</a></p>
                   </div>
                 </div>
                 <div class="col-lg-6">
@@ -225,7 +225,7 @@
                     <p>
                       Our company offers the best website design and development services, with a focus on creating user-friendly and cost-effective websites. We provide solutions that cover every aspect of your business, which enables it to develop efficiently.
                     </p>
-                    <p><a href="#">Read More</a></p>
+                    <p><a href="<?php echo SITE_PATH?>/contact">Read More</a></p>
                   </div>
                 </div>
               </div>
@@ -344,7 +344,7 @@
               <p>
                 We improve your search engine rankings and provide relevant visitors to your website with keyword research and on-page seo optimization.
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/seo-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -370,7 +370,7 @@
               <p>
                 Get rapid results with business-specific PPC advertising, each click counts toward you.
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/ppc-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -396,7 +396,7 @@
               <p>
                 By creating content and managing communities, we help you use social media to build meaningful relationships and convert them into leads.
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/social-media-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -422,7 +422,7 @@
               <p>
                 Our designers build attractive, user-friendly websites that engage your audience.
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/web-design-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -448,7 +448,7 @@
               <p>
                 To create leads, promote items, or develop customer loyalty, we create targeted and effective email campaigns.
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/email-marketing-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -474,7 +474,7 @@
               <p>
                 Our expert writers generate engaging, SEO-friendly content that engages your readers.
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/content-writing-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -500,7 +500,7 @@
               <p>
                 We provide cutting-edge web development services to strengthen your internet presence. We build scalable, secure, and beautiful websites from front-end design to back-end functionality. 
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/web-development-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -526,7 +526,7 @@
               <p>
                 Win this local market with our local SEO services. Local search results, maps, and directories show your company prominently when we improve your online presence. 
               </p>
-              <p><a href="#">Learn More</a></p>
+              <p><a href="<?php echo SITE_PATH?>/local-seo-services">Learn More</a></p>
             </div>
           </div>
         </div>
@@ -555,45 +555,6 @@
               <p class="lead">
                 Since 2017, as a digital marketing company in Delhi, Web Marlins helps you to succeed in the digital world and meet your company goals. Our expertise, skills, and desire to help you in your startup or big company flourish online. 
               </p>
-              <!-- <ol>
-                <li>
-                  <p class="lead">Client Satisfaction: Building long-term relationships with trust, honesty, and integrity, our priority is customer satisfaction and happiness.</p>
-                </li>
-                <li>
-                  <p class="lead">Innovating: With continuous experiments and the will to try new things to remain ahead in this digital world, we're known for our unique thinking and new ideas.</p>
-                </li>
-              </ol> -->
-            </div>
-            <div class="col-md-12 mb-md-5 mb-0 col-lg-6">
-              <div class="unit-4">
-                <div class="unit-4-icon mr-4 mb-3">
-                  <span class="text-primary icon-phonelink"></span>
-                </div>
-                <div>
-                  <h3>Web &amp; Mobile Specialties</h3>
-                  <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Perferendis quis consect.
-                  </p>
-                  <p class="mb-0"><a href="#">Learn More</a></p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-12 mb-md-5 mb-0 col-lg-6">
-              <div class="unit-4">
-                <div class="unit-4-icon mr-4 mb-3">
-                  <span class="icon-extension"></span>
-                </div>
-                <div>
-                  <h3>Intuitive Thinkers</h3>
-                  <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Perferendis quis.
-                  </p>
-                  <p class="mb-0"><a href="#">Learn More</a></p>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </div>

@@ -39,7 +39,6 @@
               </p>
             </div>
           </div>
-          <a href="#" class="btn btn-primary px-5 mb-2">Discover More</a>
         </div>
 
         <div class="col-lg-5">
@@ -80,7 +79,6 @@
                     <p>
                       We employ a holistic approach that integrates many channels and techniques to create a seamless brand experience for your customers rather than merely concentrating on individual marketing methods. 
                     </p>
-                    <p><a href="#">Read More</a></p>
                   </div>
                 </div>
                 <div class="col-lg-6">
@@ -92,7 +90,6 @@
                     <p>
                       Our team is driven by unrestricted creativity, constantly pushing the envelope to develop unique and eye-catching campaigns that distinguish your business.
                     </p>
-                    <p><a href="#">Read More</a></p>
                   </div>
                 </div>
                 <div class="col-lg-6">
@@ -104,7 +101,6 @@
                     <p>
                       We have developed a reputation for providing real outcomes thanks to our years of experience and portfolio of accomplished projects. Our case studies prove our ability to promote online marketing services and their success.
                     </p>
-                    <p><a href="#">Read More</a></p>
                   </div>
                 </div>
                 <div class="col-lg-6">
@@ -116,7 +112,6 @@
                     <p>
                       We know that every company is different and that no one size fits all. To provide tailored solutions that match your brand identity and objectives, we take the time to understand your goals, challenges, and target audience.
                     </p>
-                    <p><a href="#">Read More</a></p>
                   </div>
                 </div>
               </div>
