@@ -23,10 +23,10 @@
       href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700,900"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="fonts/icomoon/style.css" />
+    <link rel="stylesheet" href="fonts/icomoon/style.min.css" />
 
     <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/jquery-ui.css" />
+    <link rel="stylesheet" href="css/jquery-ui.min.css" />
     <link rel="stylesheet" href="css/owl.carousel.min.css" />
     <link rel="stylesheet" href="css/owl.theme.default.min.css" />
     <link rel="stylesheet" href="css/owl.theme.default.min.css" />
@@ -57,7 +57,7 @@
           "@context": "https://schema.org",
           "@type": "Organization",
           "name": "Web Marlins Pvt Ltd",
-          "url": "https://webmarlins.com/",
+          "url": "<?php echo SITE_PATH?>",
           "logo": "<?php echo SITE_PATH?>/images/LOGO-PNG.png",
           "sameAs": [
             "https://facebook.com/webmarlins",
@@ -72,7 +72,7 @@
               "telephone": "+91 9560 518 618",
               "contactType": "sales",
               "email": "contact@webmarlins.com",
-              "areaServed": "IN",
+              "areaServed": "US",
               "availableLanguage": "en"
             }
           ]

@@ -46,7 +46,7 @@
               </p>
             </div>
             <div class="col-md-6">
-              <img class="img-fluid" src="images/local-seo-1.jpg"/>
+              <img class="img-fluid" src="images/local-seo-1.jpg" alt="Local SEO"/>
             </div>
           </div>
         </div>
@@ -233,7 +233,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-6">
-              <img class="img-fluid" src="images/local-seo-2.jpg"/>
+              <img class="img-fluid" src="images/local-seo-2.jpg" alt="Local SEO"/>
             </div>
             <div class="col-md-6 text-left my-auto">
               <h2 class="h2">How Web Marlins specialize In Local SEO:</h2>

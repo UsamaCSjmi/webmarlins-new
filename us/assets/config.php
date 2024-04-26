@@ -9,7 +9,7 @@ define('BASE_PATH','/development/webmarlins-new/us'); //Edit path after htdocs i
 
 // Production Settings
 // define('SERVER_PATH',$_SERVER['DOCUMENT_ROOT'].'/us');
-// define('SITE_PATH','https://development.webmarlins.com/us');
+// define('SITE_PATH','https://webmarlins.com/us');
 // define('BASE_PATH','/us');
 
 $url = $_SERVER['REQUEST_URI'];

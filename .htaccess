@@ -1,4 +1,9 @@
 RewriteEngine On
+
+#Redirect www to non-www start
+RewriteCond %{HTTP_HOST} ^www.webmarlins.com [NC]
+RewriteRule ^(.*)$ https://webmarlins.com/$1 [L,R=301]
+#Redirect www to non-www end
+
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteRule ^([^.]+)$ $1.php [NC,L]
-# ErrorDocument 404 https://webmarlins.com

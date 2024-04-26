@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 		<html lang="en">
 	<head><link rel="dns-prefetch" href="https://code.jquery.com/" ><link rel="dns-prefetch" href="https://cdn.mysitemapgenerator.com/" >
-			<title>Sitemap</title>
+			<title>Sitemap | Web Marlins</title>
 			<meta name="description" content="webmarlins.com/in Sitemap" />
 			<meta name="keywords" content="webmarlins.com/in, Sitemap" />
 			<meta charset="utf-8" />
