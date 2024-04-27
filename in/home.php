@@ -36,6 +36,12 @@
           <img src="images/vicolo.png" style="width:47% !important" alt="Image" />
         </div>
         <div class="client-logo">
+          <img src="images/clients-09.png" alt="Image" />
+        </div>
+        <div class="client-logo">
+          <img src="images/clients-20.png" alt="Image" />
+        </div>
+        <div class="client-logo">
           <img src="images/clients-14.png" alt="Image" />
         </div>
         <div class="client-logo">

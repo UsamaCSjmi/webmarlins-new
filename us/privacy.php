@@ -200,7 +200,7 @@
         <p style="color:#696687;margin-top:10px">By email: contact@webmarlins.com</p>
       </li>
       <li class="styled-list-item">
-        <p style="color:#696687;margin-top:10px">By visiting this page on our website: <a style="color:#696687;" href="https://webmarlins.com/us/contact/" target="_blank">https://webmarlins.com/us/contact/</a></p>
+        <p style="color:#696687;margin-top:10px">By visiting this page on our website: <a style="color:#696687;" href="https://webmarlins.com/us/contact" target="_blank">https://webmarlins.com/us/contact</a></p>
       </li>
     </ul>
   </div>

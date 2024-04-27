@@ -14,18 +14,19 @@
 		<h1>Sitemap</h1><script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
 		       <script src="https://cdn.mysitemapgenerator.com/api/htmlsitemaps.min.js"></script>
 		       <div class="sitemap"><nav class="primaryNav"><ul><li id="home"><a href="https://webmarlins.com/us/"><img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE2LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPg0KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9IjUxMHB4IiBoZWlnaHQ9IjUxMHB4IiB2aWV3Qm94PSIwIDAgNTEwIDUxMCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNTEwIDUxMDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGc+DQoJPGcgaWQ9ImhvbWUiPg0KCQk8cG9seWdvbiBwb2ludHM9IjIwNCw0NzEuNzUgMjA0LDMxOC43NSAzMDYsMzE4Ljc1IDMwNiw0NzEuNzUgNDMzLjUsNDcxLjc1IDQzMy41LDI2Ny43NSA1MTAsMjY3Ljc1IDI1NSwzOC4yNSAwLDI2Ny43NSANCgkJCTc2LjUsMjY3Ljc1IDc2LjUsNDcxLjc1IAkJIi8+DQoJPC9nPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPC9zdmc+DQo=" width="16" height="16" alt="homepage" /> Home page</a></li>
-<li><a href="https://webmarlins.com/us/about">Revolutionizing Digital Marketing Since 2017 - Web Marlins</a></li>
-<li><a href="https://webmarlins.com/us/seo-services">SEO Agency in Delhi | Search Engine Optimization Services - Web Marlins</a></li>
-<li><a href="https://webmarlins.com/us/ppc-services">PPC Agency in Delhi | Pay Per Click Services - Web Marlins</a></li>
-<li><a href="https://webmarlins.com/us/web-design-services">Web Design Company in Delhi | Website Designing Services - Web Marlins</a></li>
-<li><a href="https://webmarlins.com/us/social-media-services">Social Media Marketing Agency in Delhi | SMO Services - Web Marlins</a></li>
-<li><a href="https://webmarlins.com/us/content-writing-services">Content Writing Company in Delhi | Content Writing Services - Web Marlins</a></li>
-<li><a href="https://webmarlins.com/us/web-development-services">Website Development Agency in Delhi | Web Development Services - Web Marlins</a></li>
-<li><a href="https://webmarlins.com/us/email-marketing-services">Email Marketing Agency in Delhi | Bulk Email Marketing Services - Web Marlins</a></li>
-<li><a href="https://webmarlins.com/us/our-work">Showcase of Our Previous Works - Web Marlins</a></li>
-<li><a href="https://webmarlins.com/us/contact">Get in Touch With Us | Contact Us - Web Marlins</a></li>
-<li><a href="https://webmarlins.com/us/privacy-policy">Privacy Policy</a></li>
-<li><a href="https://webmarlins.com/us/terms-and-conditions">terms-and-conditions</a></li>
+<li><a href="https://webmarlins.com/us/about">Revolutionizing Digital Marketing in Illinois - Web Marlins</a></li>
+<li><a href="https://webmarlins.com/us/seo-services">SEO Agency in Illinois | Search Engine Optimization Services - Web Marlins</a></li>
+<li><a href="https://webmarlins.com/us/ppc-services">PPC Agency in Illinois | Pay Per Click Services - Web Marlins</a></li>
+<li><a href="https://webmarlins.com/us/web-design-services">Web Design Company in Illinois | Website Designing Services - Web Marlins</a></li>
+<li><a href="https://webmarlins.com/us/social-media-services">Social Media Marketing Agency in Illinois | SMO Services - Web Marlins</a></li>
+<li><a href="https://webmarlins.com/us/content-writing-services">Content Writing Company in Illinois | Content Writing Services - Web Marlins</a></li>
+<li><a href="https://webmarlins.com/us/web-development-services">Website Development Agency in Illinois | Web Development Services - Web Marlins</a></li>
+<li><a href="https://webmarlins.com/us/email-marketing-services">Email Marketing Agency in Illinois | Bulk Email Marketing Services - Web Marlins</a></li>
+<li><a href="https://webmarlins.com/us/local-seo-services">Local SEO Services | Local SEO Agency in Illinois - Web Marlins</a></li>
+<li><a href="https://webmarlins.com/us/our-work">Showcase of Our Portfolio - Web Marlins</a></li>
+<li><a href="https://webmarlins.com/us/contact">Connect to Us | Contact Us - Web Marlins</a></li>
+<li><a href="https://webmarlins.com/us/privacy-policy">Privacy Policy | Web Marlins: Your Privacy Our Priority</a></li>
+<li><a href="https://webmarlins.com/us/terms-and-conditions">Terms and Conditions | Web Marlins: Your Guide to Using Our Services</a></li>
 </ul>
 </nav>
 			</div>

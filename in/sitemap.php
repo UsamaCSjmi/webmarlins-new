@@ -25,8 +25,8 @@
 <li><a href="https://webmarlins.com/in/local-seo-services">Local SEO Services | Local SEO Agency in Delhi - Web Marlins</a></li>
 <li><a href="https://webmarlins.com/in/our-work">Showcase of Our Previous Works - Web Marlins</a></li>
 <li><a href="https://webmarlins.com/in/contact">Get in Touch With Us | Contact Us - Web Marlins</a></li>
-<li><a href="https://webmarlins.com/in/privacy-policy">Privacy Policy</a></li>
-<li><a href="https://webmarlins.com/in/terms-and-conditions">terms-and-conditions</a></li>
+<li><a href="https://webmarlins.com/in/privacy-policy">Privacy Policy - Web Marlins: Your Privacy Matters to Us</a></li>
+<li><a href="https://webmarlins.com/in/terms-and-conditions">Terms and Conditions | Web Marlins - Understand Our Policies</a></li>
 </ul>
 </nav>
 			</div>
