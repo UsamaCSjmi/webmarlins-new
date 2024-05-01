@@ -377,7 +377,7 @@
                   </p>
                 </div>
               </div>
-              <a href="#" class="btn btn-primary px-5 mb-2">Discover More</a>
+              <a href="<?php echo SITE_PATH?>/contact" class="btn btn-primary px-5 mb-2">Discover More</a>
             </div>
 
             <div class="col-lg-5">

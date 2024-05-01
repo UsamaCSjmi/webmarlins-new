@@ -12,7 +12,7 @@
               </h1>
               <div>
                 <p class="text-light">
-                  Discover the essence of digital marketing mastery at Web Marlins, where expertise and precision unite to create remarkable online journeys.
+                  Discover the essence of digital marketing mastery at <a href="<?php echo SITE_PATH?>">Web Marlins</a>, where expertise and precision unite to create remarkable online journeys.
                 </p>
               </div>
             </div>
@@ -35,7 +35,7 @@
               <p class="mb-4">
               Web Marlins is a prominent contender in digital marketing consulting services. Since our establishment in 2017, we have delivered innovative strategies, inventive solutions, and remarkable outcomes to our clientele. With a keen grip on the digital landscape and an unyielding commitment to stay ahead of trends, we empower businesses to flourish. Our primary objective is to aid businesses in achieving their goals by harnessing the power of cutting-edge digital marketing techniques tailored to their requirements.
               <br><br>
-              As a competent digital marketing agency in Delhi, Web Marlins takes immense pride in its unwavering dedication to delivering tangible and measurable results, employing profound expertise to navigate the complexities of the digital marketing landscape. Entrust us with your digital presence, and allow us to guide your business toward unrivaled success.
+              As a competent <a href="<?php echo SITE_PATH?>">digital marketing agency in Delhi</a>, Web Marlins takes immense pride in its unwavering dedication to delivering tangible and measurable results, employing profound expertise to navigate the complexities of the digital marketing landscape. Entrust us with your digital presence, and allow us to guide your business toward unrivaled success.
               </p>
             </div>
           </div>

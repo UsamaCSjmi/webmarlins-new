@@ -62,7 +62,7 @@
           Garner Quality with Our Content Writing Services
           </h2>
           <p class="text-primary text-center mt-3">
-            At Web Marlins, the top content writing service provider in Delhi, we are committed to providing Content Writing Services that are nothing less than excellent in quality. We get the significance of excellent content in grabbing your target audience's attention and reaching your business goals. Our content writing agency in Delhi offers talented content writers committed to producing unique material that achieves significant results.
+            At <a href="<?php echo SITE_PATH?>">Web Marlins</a>, the top content writing service provider in Delhi, we are committed to providing Content Writing Services that are nothing less than excellent in quality. We get the significance of excellent content in grabbing your target audience's attention and reaching your business goals. Our content writing agency in Delhi offers talented content writers committed to producing unique material that achieves significant results.
           </p>
           <div class="row">
             <div class="col-md-6 col-lg-4 ">

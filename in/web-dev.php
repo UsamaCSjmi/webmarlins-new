@@ -42,7 +42,7 @@
                 </div>
                 <div class="col-12 mb-4">
                   <p class="lead">
-                    Web Marlins stands out as a trusted and reliable partner when choosing a web development company in Delhi. 
+                    Web Marlins stands out as a trusted and reliable partner when choosing a <a href="<?php echo SITE_PATH?>">web development company in Delhi</a>. 
                   </p>
                 </div>
                 <div class="col-md-12 mb-md-5 mb-0 col-lg-6">

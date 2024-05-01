@@ -36,7 +36,7 @@
             <div class="col-md-6 text-left my-auto">
               <h2 class="h2">Why are local SEO services important for your business?</h2>
               <p class="text-primary">
-                Local SEO is essential for all organizations in today's era. Our local seo services delhi improves your company. Local SEO guarantees that your company ranks well in search engine results for local people searching for your goods or services. Visibility increases foot traffic to your business or clicks to your online site, increasing revenues.
+                Local SEO is essential for all organizations in today's era. Our <a href="<?php echo SITE_PATH?>">local seo services in delhi</a> improves your company. Local SEO guarantees that your company ranks well in search engine results for local people searching for your goods or services. Visibility increases foot traffic to your business or clicks to your online site, increasing revenues.
                 <br><br>
                 Google and other search engines favor companies with reliable web information. Our organic local seo services optimize your company listings across platforms so prospective consumers can locate your location, phone number, and business hours. This boosts your online trustworthiness and chances of earning a Google local search result.
                 <br><br>

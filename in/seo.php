@@ -35,7 +35,7 @@
               <h4 class="h4">Looking for the Best SEO Company in Delhi?</h4>
               <h2 class="h2">We Provide Best SEO Services</h2>
               <p class="text-primary">
-                Look nowhere else! Your best option for great SEO services in Delhi is Web Marlins. We are dedicated to propelling your website to the top of search engine results with a team of seasoned experts, cutting-edge tactics, and a history of successful outcomes. Experience our distinctive selling factors, which include individualized plans, open reporting, and unwavering customer service. Count on us to maximize your internet visibility and foster spectacular company growth.
+                Look nowhere else! Your best option for great SEO services in Delhi is <a href="<?php echo SITE_PATH?>">Web Marlins</a>. We are dedicated to propelling your website to the top of search engine results with a team of seasoned experts, cutting-edge tactics, and a history of successful outcomes. Experience our distinctive selling factors, which include individualized plans, open reporting, and unwavering customer service. Count on us to maximize your internet visibility and foster spectacular company growth.
               </p>
               <ul class="list-unstyled ul-check primary">
                 <li >Customized SEO marketing strategy for your business.</li>
@@ -323,7 +323,7 @@
             <div class="col-lg-12 text-center" data-aos="fade-up">
               <h3 class="text-primary">How Can We Help You Grow Your Business through SEO?</h3>
               <p class="text-primary">
-                Are you willing to grow your company to new heights? We at Web Marlins, an affordable SEO company in Delhi, are masters at accelerating your progress with our first-rate professional SEO services in Delhi. To ensure search engines and potential customers can find your website, we'll undertake scholarly keyword research, optimize the content of your website, and create high-quality links. Bid online anonymity adieu and welcome better business chances, increased visibility, and more visitors. Our SEO team is ready to take you on an exciting journey in which your company shines bright and outshines its rivals. Together, let's increase your internet presence by joining forces with the top digital marketing company in Delhi.
+                Are you willing to grow your company to new heights? We at Web Marlins, an affordable SEO company in Delhi, are masters at accelerating your progress with our first-rate professional SEO services in Delhi. To ensure search engines and potential customers can find your website, we'll undertake scholarly keyword research, optimize the content of your website, and create high-quality links. Bid online anonymity adieu and welcome better business chances, increased visibility, and more visitors. Our SEO team is ready to take you on an exciting journey in which your company shines bright and outshines its rivals. Together, let's increase your internet presence by joining forces with the <a href="<?php echo SITE_PATH?>">top digital marketing company in Delhi</a>.
               </p>
             </div>
 

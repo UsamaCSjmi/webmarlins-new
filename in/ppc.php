@@ -70,7 +70,7 @@
                   </p>
                 </div>
               </div>
-              <a href="#" class="btn btn-primary px-5 mb-2">Discover More</a>
+              <a href="<?php echo SITE_PATH?>/contact" class="btn btn-primary px-5 mb-2">Discover More</a>
             </div>
 
             <div class="col-lg-5">
@@ -187,7 +187,7 @@
                         <p>
                           Our Experts develop enduring, beautiful, and consistent brand identities. We provide you with the best visual identity. Designing attractive, versatile logos that represent your brand's values. Selecting fonts that complement your brand's tone and boost readability everywhere.
                         </p>
-                        <p><a href="#">Read More</a></p>
+                        <p><a href="<?php echo SITE_PATH?>/contact">Learn More</a></p>
                       </div>
                     </div>
                     <div class="col-lg-6">
@@ -199,7 +199,7 @@
                         <p>
                           First impressions play a major role everywhere be it meeting a person or awaring your audience about your brand. Our experts' top most priority while moving forward with your brand would be to have an impressive website.  
                         </p>
-                        <p><a href="#">Read More</a></p>
+                        <p><a href="<?php echo SITE_PATH?>/contact">Learn More</a></p>
                       </div>
                     </div>
                     <div class="col-lg-6">
@@ -211,7 +211,7 @@
                         <p>
                           Web Marlins helps clients develop plans to achieve their business targets. We make a complete digital marketing strategy that leverages the right channels and methods to reach and engage your target audience.
                         </p>
-                        <p><a href="#">Read More</a></p>
+                        <p><a href="<?php echo SITE_PATH?>/contact">Learn More</a></p>
                       </div>
                     </div>
                     <div class="col-lg-6">
@@ -223,7 +223,7 @@
                         <p>
                           Our company offers the best website design and development services, with a focus on creating user-friendly and cost-effective websites. We provide solutions that cover every aspect of your business, which enables it to develop efficiently.
                         </p>
-                        <p><a href="#">Read More</a></p>
+                        <p><a href="<?php echo SITE_PATH?>/contact">Learn More</a></p>
                       </div>
                     </div>
                   </div>
@@ -240,7 +240,7 @@
             <div class="col-lg-12 text-center" data-aos="fade-up">
               <h3 class="text-primary">Partner with a Certified PPC Agency</h3>
               <p class="text-primary">
-                Partner with Web Marlins, a certified and affordable PPC agency in Delhi, to unlock improved brand visibility, increase quality traffic, and maximize ROI. Experience reduced CPC through our strategic optimizations, benefit from transparency in campaign performance, and captivate your audience with unique and compelling advertising copy.
+                Partner with <a href="<?php echo SITE_PATH?>">Web Marlins</a>, a certified and affordable PPC agency in Delhi, to unlock improved brand visibility, increase quality traffic, and maximize ROI. Experience reduced CPC through our strategic optimizations, benefit from transparency in campaign performance, and captivate your audience with unique and compelling advertising copy.
               </p>
             </div>
 
@@ -292,7 +292,7 @@
                   <p>
                     Get rapid results with business-specific PPC advertising, each click counts toward you.
                   </p>
-                  <p><a href="#">Learn More</a></p>
+                  <p><a href="<?php echo SITE_PATH?>/contact">Learn More</a></p>
                 </div>
               </div>
             </div>
@@ -343,7 +343,7 @@
                   <p>
                     Our designers build attractive, user-friendly websites that engage your audience.
                   </p>
-                  <p><a href="#">Learn More</a></p>
+                  <p><a href="<?php echo SITE_PATH?>/contact">Learn More</a></p>
                 </div>
               </div>
             </div>

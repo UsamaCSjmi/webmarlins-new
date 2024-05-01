@@ -435,7 +435,7 @@
                 Unlock the Power of High-End Web Design with Web Marlins: Elevate Your Digital Presence and Drive Remarkable Results.
               </h2>
               <p class="text-primary">
-                What advantages does premium web design have for your company? It transcends mere beauty. It develops an engaging user experience, enthralls your audience, and increases the effectiveness of your brand. We at the top e-commerce web design agency, Web Marlins, know the transforming power of superb site design.
+                What advantages does premium web design have for your company? It transcends mere beauty. It develops an engaging user experience, enthralls your audience, and increases the effectiveness of your brand. We at the top e-commerce web design agency, <a href="<?php echo SITE_PATH?>">Web Marlins</a>, know the transforming power of superb site design.
               </p>
               <p class="text-primary">
                 With the help of their creative collaboration, our team of brilliant designers, engineers, and digital strategists creates visually amazing websites that are tactically and aesthetically optimized to engage your target audience and increase conversions. We blend state-of-the-art design methodologies, user-centric philosophies, and cutting-edge technologies to produce memorable digital experiences.

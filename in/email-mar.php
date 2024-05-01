@@ -64,7 +64,7 @@
                     <div>
                       <h3 class="text-primary">Bulk Emails</h3>
                       <p>
-                        Reach a wide audience effectively with Web Marlins' bulk email marketing services in Delhi. Our advanced technology ensures seamless delivery and personalized content at scale, allowing you to engage and nurture a large subscriber base easily.
+                        Reach a wide audience effectively with Web Marlins' bulk <a href="<?php echo SITE_PATH?>" style="color: #21325E;">email marketing services in Delhi</a>. Our advanced technology ensures seamless delivery and personalized content at scale, allowing you to engage and nurture a large subscriber base easily.
                       </p>
                     </div>
                   </div>
