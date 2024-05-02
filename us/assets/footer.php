@@ -85,6 +85,12 @@
         </div>
       </footer>
     </div>
+    
+<div style="position:fixed;bottom:30px;right:20px;width:60px">
+  <a href="https://api.whatsapp.com/send/?phone=919560518618" target="_blank">
+    <img src="images/whatsapp.png" alt="Whatsapp" class="img-fluid" width="70%">
+  </a>
+</div>
     <!-- .site-wrap -->
 
     <script src="js/jquery-3.3.1.min.js"></script>
