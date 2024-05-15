@@ -52,17 +52,24 @@
 
             <div class="row form-group">
               <div class="col-md-12">
-                <label class="text-black" for="comments">Comments</label>
-                <input type="comments" id="comments" class="form-control" />
+                <label class="text-black" for="message">Comments</label>
+                <input type="message" id="message" class="form-control" />
                 <!-- <textarea name="comments" id="comments" cols="30" rows="7" class="form-control" placeholder="Write your notes or questions here..."></textarea> -->
               </div>
             </div>
 
             <div class="row form-group">
               <div class="col-md-12">
+                <p id="final-msg"></p>
+              </div>
+            </div>
+
+            <div class="row form-group">
+              <div class="col-md-12">
                 <input
-                  type="submit"
+                  type="button"
                   value="Send Message"
+                  onclick="send_contact()"
                   class="btn btn-primary btn-md text-white"
                 />
               </div>

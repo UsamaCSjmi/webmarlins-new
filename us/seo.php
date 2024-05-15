@@ -46,16 +46,16 @@
             </div>
             <div class="col-md-6">
               <form action="#" class="p-5 bg-white">
-                <h2 class="h4 mb-5">Get Your Free Website Analysis</h2>
+                <h2 class="h4 mb-5">Let's talk about you</h2>
 
                 <div class="row form-group">
                   <div class="col-md-6 mb-3 mb-md-0">
-                    <label class="text-black" for="fname">First Name</label>
-                    <input type="text" id="fname" class="form-control" />
+                    <label class="text-black" for="name">Name</label>
+                    <input type="text" id="name" class="form-control" />
                   </div>
                   <div class="col-md-6">
-                    <label class="text-black" for="lname">Last Name</label>
-                    <input type="text" id="lname" class="form-control" />
+                    <label class="text-black" for="phone">Phone</label>
+                    <input type="phone" id="phone" class="form-control" />
                   </div>
                 </div>
 
@@ -68,23 +68,29 @@
 
                 <div class="row form-group">
                   <div class="col-md-12">
-                    <label class="text-black" for="company">Company</label>
-                    <input type="company" id="company" class="form-control" />
+                    <label class="text-black" for="website">Website</label>
+                    <input type="website" id="website" class="form-control" />
                   </div>
                 </div>
 
                 <div class="row form-group">
                   <div class="col-md-12">
-                    <label class="text-black" for="comments">Comments</label>
-                    <input type="comments" id="comments" class="form-control" />
+                    <label class="text-black" for="message">Comments</label>
+                    <input type="message" id="msg" class="form-control" />
                     <!-- <textarea name="comments" id="comments" cols="30" rows="7" class="form-control" placeholder="Write your notes or questions here..."></textarea> -->
+                  </div>
+                </div>
+                <div class="row form-group">
+                  <div class="col-md-12">
+                    <p id="f-msg"></p>
                   </div>
                 </div>
 
                 <div class="row form-group">
                   <div class="col-md-12">
                     <input
-                      type="submit"
+                      type="button"
+                      onclick="home_contact()"
                       value="Send Message"
                       class="btn btn-primary btn-md text-white"
                     />
@@ -471,6 +477,8 @@
         </div>
       </div>
 
-      <?php include_once("assets/contact-section.php");?>
+      <?php
+      //  include_once("assets/contact-section.php");
+       ?>
 
 <?php include_once ("assets/footer.php")?>

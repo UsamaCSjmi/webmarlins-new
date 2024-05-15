@@ -2005,3 +2005,9 @@ h1, h2, h3, h4, h5,
 .main-up-pricing .grey-para,.main-up-pricing .package-item::marker{
   color: #fff;
 }
+.error{
+  color: red;
+}
+.success{
+  color: green;
+}
