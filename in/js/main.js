@@ -435,10 +435,10 @@ function home_contact(){
         msg.classList.add("error");
         msg.innerText = "Name can't be empty";
     }
-    else if(isValidPhone(phone)){
+    else if(!isValidPhone(phone)){
         alright = false;
         msg.classList.add("error");
-        msg.innerText = "Invalid Phone number";
+        msg.innerText = "Invalid Phone Number";
     }
     data_object = {
         email: email,
