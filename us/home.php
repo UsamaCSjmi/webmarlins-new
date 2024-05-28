@@ -36,6 +36,9 @@
           <img src="images/vicolo.png" style="width:47% !important" alt="Image" />
         </div>
         <div class="client-logo">
+          <img src="images/clients-21.png" alt="Image" />
+        </div>
+        <div class="client-logo">
           <img src="images/clients-09.png" alt="Image" />
         </div>
         <div class="client-logo">
@@ -637,10 +640,15 @@
             >
               <img src="images/clients-08.png" alt="Image" class="img-fluid" />
             </div>
+            <div class="col" data-aos="fade-in" data-aos-delay="400">
+              <a href="https://findbestfirms.com/services/top-web-development-companies/" target="_blank" style="display:inline-block; border:0;">
+                <img class="img-fluid" src="https://findbestfirms.com/badges/may-2024/Website-development-companies-award-warranty-badge.png" alt="Top Website Development Companies in USA"/>
+              </a>
+            </div>
             <div
               class="col"
               data-aos="fade-in"
-              data-aos-delay="400"
+              data-aos-delay="500"
             >
               <img src="images/clients-04.png" alt="Image" class="img-fluid" />
             </div>
